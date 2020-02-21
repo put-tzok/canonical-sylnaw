@@ -1,0 +1,12 @@
+    1 C   0(Q) - G  22(Q) -    cWW  -    0
+    2 C   1(Q) - G  21(Q) -    cWW  -    0
+    3 U   2(Q) - A  20(Q) -    cWW  -    0
+    4 G   3(Q) - C  19(Q) -    cWW  -    0
+    5 G   4(Q) - C  18(Q) -    cWW  -    0
+    6 U   5(Q) - U  17(Q) -    cwW  -    0
+    7 U  17(Q) - U   5(Q) -    cWw  -    0
+    8 C  18(Q) - G   4(Q) -    cWW  -    0
+    9 C  19(Q) - G   3(Q) -    cWW  -    0
+   10 A  20(Q) - U   2(Q) -    cWW  -    0
+   11 G  21(Q) - C   1(Q) -    cWW  -    0
+   12 G  22(Q) - C   0(Q) -    cWW  -    0
