@@ -1,0 +1,5500 @@
+{
+  "num_pairs": 12,
+  "pairs": [
+    {
+      "index": 1,
+      "nt1": "Q.C0",
+      "nt2": "Q.G22",
+      "bp": "C-G",
+      "name": "WC",
+      "Saenger": "19-XIX",
+      "LW": "cWW",
+      "DSSR": "cW-W"
+    },
+    {
+      "index": 2,
+      "nt1": "Q.C1",
+      "nt2": "Q.G21",
+      "bp": "C-G",
+      "name": "WC",
+      "Saenger": "19-XIX",
+      "LW": "cWW",
+      "DSSR": "cW-W"
+    },
+    {
+      "index": 3,
+      "nt1": "Q.U2",
+      "nt2": "Q.A20",
+      "bp": "U-A",
+      "name": "WC",
+      "Saenger": "20-XX",
+      "LW": "cWW",
+      "DSSR": "cW-W"
+    },
+    {
+      "index": 4,
+      "nt1": "Q.G3",
+      "nt2": "Q.C19",
+      "bp": "G-C",
+      "name": "WC",
+      "Saenger": "19-XIX",
+      "LW": "cWW",
+      "DSSR": "cW-W"
+    },
+    {
+      "index": 5,
+      "nt1": "Q.G4",
+      "nt2": "Q.C18",
+      "bp": "G-C",
+      "name": "WC",
+      "Saenger": "19-XIX",
+      "LW": "cWW",
+      "DSSR": "cW-W"
+    },
+    {
+      "index": 6,
+      "nt1": "Q.U5",
+      "nt2": "Q.U17",
+      "bp": "U-U",
+      "name": "--",
+      "Saenger": "16-XVI",
+      "LW": "cWW",
+      "DSSR": "cW-W"
+    },
+    {
+      "index": 7,
+      "nt1": "R.C0",
+      "nt2": "R.G22",
+      "bp": "C-G",
+      "name": "WC",
+      "Saenger": "19-XIX",
+      "LW": "cWW",
+      "DSSR": "cW-W"
+    },
+    {
+      "index": 8,
+      "nt1": "R.C1",
+      "nt2": "R.G21",
+      "bp": "C-G",
+      "name": "WC",
+      "Saenger": "19-XIX",
+      "LW": "cWW",
+      "DSSR": "cW-W"
+    },
+    {
+      "index": 9,
+      "nt1": "R.U2",
+      "nt2": "R.A20",
+      "bp": "U-A",
+      "name": "WC",
+      "Saenger": "20-XX",
+      "LW": "cWW",
+      "DSSR": "cW-W"
+    },
+    {
+      "index": 10,
+      "nt1": "R.G3",
+      "nt2": "R.C19",
+      "bp": "G-C",
+      "name": "WC",
+      "Saenger": "19-XIX",
+      "LW": "cWW",
+      "DSSR": "cW-W"
+    },
+    {
+      "index": 11,
+      "nt1": "R.G4",
+      "nt2": "R.C18",
+      "bp": "G-C",
+      "name": "WC",
+      "Saenger": "19-XIX",
+      "LW": "cWW",
+      "DSSR": "cW-W"
+    },
+    {
+      "index": 12,
+      "nt1": "R.U5",
+      "nt2": "R.U17",
+      "bp": "U-U",
+      "name": "--",
+      "Saenger": "16-XVI",
+      "LW": "cWW",
+      "DSSR": "cW-W"
+    }
+  ],
+  "num_helices": 2,
+  "helices": [
+    {
+      "index": 1,
+      "num_stems": 1,
+      "strand1": "CCUGGU",
+      "strand2": "GGACCU",
+      "bp_type": "|||||.",
+      "helix_form": "AAAA.",
+      "num_pairs": 6,
+      "pairs": [
+        {
+          "index": 1,
+          "nt1": "Q.C0",
+          "nt2": "Q.G22",
+          "bp": "C-G",
+          "name": "WC",
+          "Saenger": "19-XIX",
+          "LW": "cWW",
+          "DSSR": "cW-W"
+        },
+        {
+          "index": 2,
+          "nt1": "Q.C1",
+          "nt2": "Q.G21",
+          "bp": "C-G",
+          "name": "WC",
+          "Saenger": "19-XIX",
+          "LW": "cWW",
+          "DSSR": "cW-W"
+        },
+        {
+          "index": 3,
+          "nt1": "Q.U2",
+          "nt2": "Q.A20",
+          "bp": "U-A",
+          "name": "WC",
+          "Saenger": "20-XX",
+          "LW": "cWW",
+          "DSSR": "cW-W"
+        },
+        {
+          "index": 4,
+          "nt1": "Q.G3",
+          "nt2": "Q.C19",
+          "bp": "G-C",
+          "name": "WC",
+          "Saenger": "19-XIX",
+          "LW": "cWW",
+          "DSSR": "cW-W"
+        },
+        {
+          "index": 5,
+          "nt1": "Q.G4",
+          "nt2": "Q.C18",
+          "bp": "G-C",
+          "name": "WC",
+          "Saenger": "19-XIX",
+          "LW": "cWW",
+          "DSSR": "cW-W"
+        },
+        {
+          "index": 6,
+          "nt1": "Q.U5",
+          "nt2": "Q.U17",
+          "bp": "U-U",
+          "name": "--",
+          "Saenger": "16-XVI",
+          "LW": "cWW",
+          "DSSR": "cW-W"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "num_stems": 1,
+      "strand1": "CCUGGU",
+      "strand2": "GGACCU",
+      "bp_type": "|||||.",
+      "helix_form": "AAAA.",
+      "num_pairs": 6,
+      "pairs": [
+        {
+          "index": 1,
+          "nt1": "R.C0",
+          "nt2": "R.G22",
+          "bp": "C-G",
+          "name": "WC",
+          "Saenger": "19-XIX",
+          "LW": "cWW",
+          "DSSR": "cW-W"
+        },
+        {
+          "index": 2,
+          "nt1": "R.C1",
+          "nt2": "R.G21",
+          "bp": "C-G",
+          "name": "WC",
+          "Saenger": "19-XIX",
+          "LW": "cWW",
+          "DSSR": "cW-W"
+        },
+        {
+          "index": 3,
+          "nt1": "R.U2",
+          "nt2": "R.A20",
+          "bp": "U-A",
+          "name": "WC",
+          "Saenger": "20-XX",
+          "LW": "cWW",
+          "DSSR": "cW-W"
+        },
+        {
+          "index": 4,
+          "nt1": "R.G3",
+          "nt2": "R.C19",
+          "bp": "G-C",
+          "name": "WC",
+          "Saenger": "19-XIX",
+          "LW": "cWW",
+          "DSSR": "cW-W"
+        },
+        {
+          "index": 5,
+          "nt1": "R.G4",
+          "nt2": "R.C18",
+          "bp": "G-C",
+          "name": "WC",
+          "Saenger": "19-XIX",
+          "LW": "cWW",
+          "DSSR": "cW-W"
+        },
+        {
+          "index": 6,
+          "nt1": "R.U5",
+          "nt2": "R.U17",
+          "bp": "U-U",
+          "name": "--",
+          "Saenger": "16-XVI",
+          "LW": "cWW",
+          "DSSR": "cW-W"
+        }
+      ]
+    }
+  ],
+  "num_stems": 2,
+  "stems": [
+    {
+      "index": 1,
+      "helix_index": 1,
+      "strand1": "CCUGG",
+      "strand2": "GGACC",
+      "bp_type": "|||||",
+      "helix_form": "AAAA",
+      "num_pairs": 5,
+      "pairs": [
+        {
+          "index": 1,
+          "nt1": "Q.C0",
+          "nt2": "Q.G22",
+          "bp": "C-G",
+          "name": "WC",
+          "Saenger": "19-XIX",
+          "LW": "cWW",
+          "DSSR": "cW-W"
+        },
+        {
+          "index": 2,
+          "nt1": "Q.C1",
+          "nt2": "Q.G21",
+          "bp": "C-G",
+          "name": "WC",
+          "Saenger": "19-XIX",
+          "LW": "cWW",
+          "DSSR": "cW-W"
+        },
+        {
+          "index": 3,
+          "nt1": "Q.U2",
+          "nt2": "Q.A20",
+          "bp": "U-A",
+          "name": "WC",
+          "Saenger": "20-XX",
+          "LW": "cWW",
+          "DSSR": "cW-W"
+        },
+        {
+          "index": 4,
+          "nt1": "Q.G3",
+          "nt2": "Q.C19",
+          "bp": "G-C",
+          "name": "WC",
+          "Saenger": "19-XIX",
+          "LW": "cWW",
+          "DSSR": "cW-W"
+        },
+        {
+          "index": 5,
+          "nt1": "Q.G4",
+          "nt2": "Q.C18",
+          "bp": "G-C",
+          "name": "WC",
+          "Saenger": "19-XIX",
+          "LW": "cWW",
+          "DSSR": "cW-W"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "helix_index": 2,
+      "strand1": "CCUGG",
+      "strand2": "GGACC",
+      "bp_type": "|||||",
+      "helix_form": "AAAA",
+      "num_pairs": 5,
+      "pairs": [
+        {
+          "index": 1,
+          "nt1": "R.C0",
+          "nt2": "R.G22",
+          "bp": "C-G",
+          "name": "WC",
+          "Saenger": "19-XIX",
+          "LW": "cWW",
+          "DSSR": "cW-W"
+        },
+        {
+          "index": 2,
+          "nt1": "R.C1",
+          "nt2": "R.G21",
+          "bp": "C-G",
+          "name": "WC",
+          "Saenger": "19-XIX",
+          "LW": "cWW",
+          "DSSR": "cW-W"
+        },
+        {
+          "index": 3,
+          "nt1": "R.U2",
+          "nt2": "R.A20",
+          "bp": "U-A",
+          "name": "WC",
+          "Saenger": "20-XX",
+          "LW": "cWW",
+          "DSSR": "cW-W"
+        },
+        {
+          "index": 4,
+          "nt1": "R.G3",
+          "nt2": "R.C19",
+          "bp": "G-C",
+          "name": "WC",
+          "Saenger": "19-XIX",
+          "LW": "cWW",
+          "DSSR": "cW-W"
+        },
+        {
+          "index": 5,
+          "nt1": "R.G4",
+          "nt2": "R.C18",
+          "bp": "G-C",
+          "name": "WC",
+          "Saenger": "19-XIX",
+          "LW": "cWW",
+          "DSSR": "cW-W"
+        }
+      ]
+    }
+  ],
+  "num_stacks": 12,
+  "stacks": [
+    {
+      "index": 1,
+      "num_nts": 2,
+      "nts_short": "GU",
+      "nts_long": "Q.G4,Q.U5"
+    },
+    {
+      "index": 2,
+      "num_nts": 2,
+      "nts_short": "UG",
+      "nts_long": "Q.U8,Q.G9"
+    },
+    {
+      "index": 3,
+      "num_nts": 2,
+      "nts_short": "AG",
+      "nts_long": "Q.A11,Q.G12"
+    },
+    {
+      "index": 4,
+      "num_nts": 2,
+      "nts_short": "GU",
+      "nts_long": "Q.G22,Q.U23"
+    },
+    {
+      "index": 5,
+      "num_nts": 2,
+      "nts_short": "GU",
+      "nts_long": "R.G4,R.U5"
+    },
+    {
+      "index": 6,
+      "num_nts": 2,
+      "nts_short": "UG",
+      "nts_long": "R.U8,R.G9"
+    },
+    {
+      "index": 7,
+      "num_nts": 2,
+      "nts_short": "AG",
+      "nts_long": "R.A11,R.G12"
+    },
+    {
+      "index": 8,
+      "num_nts": 2,
+      "nts_short": "GU",
+      "nts_long": "R.G22,R.U23"
+    },
+    {
+      "index": 9,
+      "num_nts": 3,
+      "nts_short": "ACC",
+      "nts_long": "Q.A14,Q.C15,Q.C16"
+    },
+    {
+      "index": 10,
+      "num_nts": 3,
+      "nts_short": "ACC",
+      "nts_long": "R.A14,R.C15,R.C16"
+    },
+    {
+      "index": 11,
+      "num_nts": 4,
+      "nts_short": "UAUC",
+      "nts_long": "Q.U7,Q.A6,Q.U17,Q.C18"
+    },
+    {
+      "index": 12,
+      "num_nts": 4,
+      "nts_short": "UAUC",
+      "nts_long": "R.U7,R.A6,R.U17,R.C18"
+    }
+  ],
+  "nonStack": {
+    "num_nts": 4,
+    "nts_short": "CUCU",
+    "nts_long": "Q.C10,Q.U13,R.C10,R.U13"
+  },
+  "num_atom2bases": 2,
+  "atom2bases": [
+    {
+      "index": 1,
+      "type": "sugar",
+      "atom": "O4'@Q.U8",
+      "nt": "Q.G9",
+      "vert_dist": 3.033
+    },
+    {
+      "index": 2,
+      "type": "sugar",
+      "atom": "O4'@R.U8",
+      "nt": "R.G9",
+      "vert_dist": 3.054
+    }
+  ],
+  "num_hairpins": 2,
+  "hairpins": [
+    {
+      "index": 1,
+      "type": "hairpin loop",
+      "bridging_nts": [
+        13
+      ],
+      "stem_indices": [
+        1
+      ],
+      "summary": "[1] 13 [Q.4 Q.18] 5",
+      "num_nts": 15,
+      "nts_short": "GUAUUGCAGUACCUC",
+      "nts_long": "Q.G4,Q.U5,Q.A6,Q.U7,Q.U8,Q.G9,Q.C10,Q.A11,Q.G12,Q.U13,Q.A14,Q.C15,Q.C16,Q.U17,Q.C18",
+      "num_stems": 1,
+      "bridges": [
+        {
+          "index": 1,
+          "num_nts": 13,
+          "nts_short": "UAUUGCAGUACCU",
+          "nts_long": "Q.U5,Q.A6,Q.U7,Q.U8,Q.G9,Q.C10,Q.A11,Q.G12,Q.U13,Q.A14,Q.C15,Q.C16,Q.U17"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "type": "hairpin loop",
+      "bridging_nts": [
+        13
+      ],
+      "stem_indices": [
+        2
+      ],
+      "summary": "[1] 13 [R.4 R.18] 5",
+      "num_nts": 15,
+      "nts_short": "GUAUUGCAGUACCUC",
+      "nts_long": "R.G4,R.U5,R.A6,R.U7,R.U8,R.G9,R.C10,R.A11,R.G12,R.U13,R.A14,R.C15,R.C16,R.U17,R.C18",
+      "num_stems": 1,
+      "bridges": [
+        {
+          "index": 1,
+          "num_nts": 13,
+          "nts_short": "UAUUGCAGUACCU",
+          "nts_long": "R.U5,R.A6,R.U7,R.U8,R.G9,R.C10,R.A11,R.G12,R.U13,R.A14,R.C15,R.C16,R.U17"
+        }
+      ]
+    }
+  ],
+  "num_ssSegments": 2,
+  "ssSegments": [
+    {
+      "index": 1,
+      "num_nts": 1,
+      "nts_short": "U",
+      "nts_long": "Q.U23"
+    },
+    {
+      "index": 2,
+      "num_nts": 1,
+      "nts_short": "U",
+      "nts_long": "R.U23"
+    }
+  ],
+  "num_splayUnits": 6,
+  "splayUnits": [
+    {
+      "index": 1,
+      "num_nts": 2,
+      "nts_short": "GC",
+      "nts_long": "Q.G9,Q.C10"
+    },
+    {
+      "index": 2,
+      "num_nts": 3,
+      "nts_short": "GUA",
+      "nts_long": "Q.G12,Q.U13,Q.A14"
+    },
+    {
+      "index": 3,
+      "num_nts": 2,
+      "nts_short": "CU",
+      "nts_long": "Q.C16,Q.U17"
+    },
+    {
+      "index": 4,
+      "num_nts": 2,
+      "nts_short": "GC",
+      "nts_long": "R.G9,R.C10"
+    },
+    {
+      "index": 5,
+      "num_nts": 2,
+      "nts_short": "UA",
+      "nts_long": "R.U13,R.A14"
+    },
+    {
+      "index": 6,
+      "num_nts": 2,
+      "nts_short": "CU",
+      "nts_long": "R.C16,R.U17"
+    }
+  ],
+  "dbn": {
+    "all_chains": {
+      "num_nts": 48,
+      "num_chars": 49,
+      "bseq": "CCUGGUAUUGCAGUACCUCCAGGU&CCUGGUAUUGCAGUACCUCCAGGU",
+      "sstr": "(((((.............))))).&(((((.............))))).",
+      "form": "AAAA..A........A.AAAAAA-&AAAA..A........A..AAAAA-"
+    },
+    "chain_Q": {
+      "num_nts": 24,
+      "num_chars": 24,
+      "bseq": "CCUGGUAUUGCAGUACCUCCAGGU",
+      "sstr": "(((((.............))))).",
+      "form": "AAAA..A........A.AAAAAA-"
+    },
+    "chain_R": {
+      "num_nts": 24,
+      "num_chars": 24,
+      "bseq": "CCUGGUAUUGCAGUACCUCCAGGU",
+      "sstr": "(((((.............))))).",
+      "form": "AAAA..A........A..AAAAA-"
+    }
+  },
+  "chains": {
+    "chain_Q": {
+      "num_nts": 24,
+      "bseq": "CCUGGUAUUGCAGUACCUCCAGGU",
+      "sstr": "(((((.............))))).",
+      "form": "AAAA..A........A.AAAAAA-",
+      "helical_rise": 0.028,
+      "helical_rise_std": 2.17,
+      "helical_axis": [
+        0.217,
+        0.602,
+        -0.769
+      ],
+      "point1": [
+        20.782,
+        6.335,
+        3.16
+      ],
+      "point2": [
+        20.906,
+        6.679,
+        2.721
+      ],
+      "num_chars": 70,
+      "suite": "C1aC!!U!!G1aG1aU1aA1aU1[U6gG!!C!!A1bG0bU!!A!!C1bC4dU1aC1aC1aA1aG1aG!!U"
+    },
+    "chain_R": {
+      "num_nts": 24,
+      "bseq": "CCUGGUAUUGCAGUACCUCCAGGU",
+      "sstr": "(((((.............))))).",
+      "form": "AAAA..A........A..AAAAA-",
+      "helical_rise": 0.005,
+      "helical_rise_std": 2.146,
+      "helical_axis": [
+        -0.565,
+        0.425,
+        -0.707
+      ],
+      "point1": [
+        35.209,
+        -30.941,
+        59.887
+      ],
+      "point2": [
+        35.1,
+        -30.859,
+        59.751
+      ],
+      "num_chars": 70,
+      "suite": "C1aC!!U!!G1aG1aU1aA1aU1bU6gG!!C!!A1bG!!U!!A!!C1bC4dU1aC1aC1aA1aG1aG!!U"
+    }
+  },
+  "num_nts": 48,
+  "nts": [
+    {
+      "index": 1,
+      "index_chain": 1,
+      "chain_name": "Q",
+      "nt_resnum": 0,
+      "nt_name": "C",
+      "nt_code": "C",
+      "nt_id": "Q.C0",
+      "dbn": "(",
+      "summary": "anti,~C3'-endo,BI,canonical,non-pair-contact,helix-end,stem-end",
+      "alpha": null,
+      "beta": null,
+      "gamma": 51.676,
+      "delta": 90.484,
+      "epsilon": -163.245,
+      "zeta": -66.206,
+      "epsilon_zeta": -97.039,
+      "bb_type": "BI",
+      "chi": -156.539,
+      "glyco_bond": "anti",
+      "C5prime_xyz": [
+        -1.143,
+        8.661,
+        0.289
+      ],
+      "P_xyz": [
+        null,
+        null,
+        null
+      ],
+      "form": "A",
+      "ssZp": 4.354,
+      "Dp": 4.564,
+      "splay_angle": 25.228,
+      "splay_distance": 3.952,
+      "splay_ratio": 0.219,
+      "eta": null,
+      "theta": null,
+      "eta_prime": null,
+      "theta_prime": null,
+      "eta_base": null,
+      "theta_base": null,
+      "v0": 12.225,
+      "v1": -32.825,
+      "v2": 39.928,
+      "v3": -33.191,
+      "v4": 13.722,
+      "amplitude": 39.933,
+      "phase_angle": 0.869,
+      "puckering": "C3'-endo",
+      "sugar_class": "~C3'-endo",
+      "bin": "inc",
+      "cluster": "__",
+      "suiteness": 0,
+      "filter_rmsd": 0.072,
+      "frame": {
+        "rmsd": 0.018,
+        "origin": [
+          5.936,
+          14.024,
+          0.446
+        ],
+        "x_axis": [
+          0.485,
+          0.279,
+          -0.829
+        ],
+        "y_axis": [
+          0.869,
+          -0.05,
+          0.491
+        ],
+        "z_axis": [
+          0.095,
+          -0.959,
+          -0.267
+        ],
+        "quaternion": [
+          0.54,
+          0.671,
+          0.428,
+          -0.273
+        ]
+      }
+    },
+    {
+      "index": 2,
+      "index_chain": 2,
+      "chain_name": "Q",
+      "nt_resnum": 1,
+      "nt_name": "C",
+      "nt_code": "C",
+      "nt_id": "Q.C1",
+      "dbn": "(",
+      "summary": "anti,~C3'-endo,BI,canonical,non-pair-contact,helix,stem",
+      "alpha": -74.834,
+      "beta": -168.997,
+      "gamma": 49.446,
+      "delta": 82.02,
+      "epsilon": -171.162,
+      "zeta": -79.759,
+      "epsilon_zeta": -91.403,
+      "bb_type": "BI",
+      "chi": -156.456,
+      "glyco_bond": "anti",
+      "C5prime_xyz": [
+        -1.3,
+        8.754,
+        0.326
+      ],
+      "P_xyz": [
+        1.249,
+        9.036,
+        0.895
+      ],
+      "form": "A",
+      "ssZp": 4.347,
+      "Dp": 4.528,
+      "splay_angle": 24.137,
+      "splay_distance": 3.901,
+      "splay_ratio": 0.211,
+      "eta": 170.429,
+      "theta": -135.635,
+      "eta_prime": -176.534,
+      "theta_prime": -141.385,
+      "eta_base": -140.664,
+      "theta_base": -119.028,
+      "v0": 0.828,
+      "v1": -25.384,
+      "v2": 38.189,
+      "v3": -39.357,
+      "v4": 24.273,
+      "amplitude": 40.077,
+      "phase_angle": 17.659,
+      "puckering": "C3'-endo",
+      "sugar_class": "~C3'-endo",
+      "bin": "33p",
+      "cluster": "1a",
+      "suiteness": 0.623,
+      "filter_rmsd": 0.065,
+      "frame": {
+        "rmsd": 0.011,
+        "origin": [
+          5.796,
+          10.831,
+          -1.879
+        ],
+        "x_axis": [
+          0.832,
+          0.439,
+          -0.34
+        ],
+        "y_axis": [
+          0.463,
+          -0.209,
+          0.862
+        ],
+        "z_axis": [
+          0.307,
+          -0.874,
+          -0.377
+        ],
+        "quaternion": [
+          0.558,
+          0.777,
+          0.29,
+          -0.011
+        ]
+      }
+    },
+    {
+      "index": 3,
+      "index_chain": 3,
+      "chain_name": "Q",
+      "nt_resnum": 2,
+      "nt_name": "U",
+      "nt_code": "U",
+      "nt_id": "Q.U2",
+      "dbn": "(",
+      "summary": "anti,~C3'-endo,canonical,non-pair-contact,helix,stem",
+      "alpha": 104.622,
+      "beta": 174.492,
+      "gamma": -128.309,
+      "delta": 108.123,
+      "epsilon": -126.587,
+      "zeta": -94.347,
+      "epsilon_zeta": -32.24,
+      "bb_type": "..",
+      "chi": -159.598,
+      "glyco_bond": "anti",
+      "C5prime_xyz": [
+        -0.377,
+        7.645,
+        0.806
+      ],
+      "P_xyz": [
+        1.606,
+        9.319,
+        0.913
+      ],
+      "form": "A",
+      "ssZp": 4.237,
+      "Dp": 4.605,
+      "splay_angle": 19.768,
+      "splay_distance": 3.334,
+      "splay_ratio": 0.176,
+      "eta": 171.495,
+      "theta": -142.402,
+      "eta_prime": 179.934,
+      "theta_prime": -145.391,
+      "eta_base": -144.607,
+      "theta_base": -127.357,
+      "v0": 28.879,
+      "v1": -31.252,
+      "v2": 22.875,
+      "v3": -7.143,
+      "v4": -13.363,
+      "amplitude": 31.433,
+      "phase_angle": 316.697,
+      "puckering": "C1'-endo",
+      "sugar_class": "~C3'-endo",
+      "bin": "trig",
+      "cluster": "!!",
+      "suiteness": 0,
+      "filter_rmsd": 0.096,
+      "frame": {
+        "rmsd": 0.015,
+        "origin": [
+          6.991,
+          8.372,
+          -4.661
+        ],
+        "x_axis": [
+          0.821,
+          0.471,
+          0.323
+        ],
+        "y_axis": [
+          -0.086,
+          -0.456,
+          0.886
+        ],
+        "z_axis": [
+          0.565,
+          -0.755,
+          -0.334
+        ],
+        "quaternion": [
+          0.508,
+          0.808,
+          0.119,
+          0.275
+        ]
+      }
+    },
+    {
+      "index": 4,
+      "index_chain": 4,
+      "chain_name": "Q",
+      "nt_resnum": 3,
+      "nt_name": "G",
+      "nt_code": "G",
+      "nt_id": "Q.G3",
+      "dbn": "(",
+      "summary": "anti,~C3'-endo,canonical,non-pair-contact,helix,stem",
+      "alpha": 93.604,
+      "beta": -153.998,
+      "gamma": -130.963,
+      "delta": 99.396,
+      "epsilon": -120.463,
+      "zeta": -67.749,
+      "epsilon_zeta": -52.713,
+      "bb_type": "..",
+      "chi": -167.334,
+      "glyco_bond": "anti",
+      "C5prime_xyz": [
+        -0.491,
+        7.854,
+        1.138
+      ],
+      "P_xyz": [
+        1.074,
+        9.771,
+        0.562
+      ],
+      "form": "A",
+      "ssZp": 4.495,
+      "Dp": 4.735,
+      "splay_angle": 22.136,
+      "splay_distance": 3.631,
+      "splay_ratio": 0.196,
+      "eta": 161.442,
+      "theta": -154.99,
+      "eta_prime": 175.351,
+      "theta_prime": -147.79,
+      "eta_base": -152.761,
+      "theta_base": -121.921,
+      "v0": 22.81,
+      "v1": -36.61,
+      "v2": 35.823,
+      "v3": -24.032,
+      "v4": 0.94,
+      "amplitude": 37.531,
+      "phase_angle": 342.649,
+      "puckering": "C2'-exo",
+      "sugar_class": "~C3'-endo",
+      "bin": "trig",
+      "cluster": "!!",
+      "suiteness": 0,
+      "filter_rmsd": 0.009,
+      "frame": {
+        "rmsd": 0.009,
+        "origin": [
+          9.027,
+          7.13,
+          -6.991
+        ],
+        "x_axis": [
+          0.621,
+          0.326,
+          0.713
+        ],
+        "y_axis": [
+          -0.366,
+          -0.683,
+          0.632
+        ],
+        "z_axis": [
+          0.693,
+          -0.653,
+          -0.305
+        ],
+        "quaternion": [
+          0.398,
+          0.808,
+          -0.012,
+          0.435
+        ]
+      }
+    },
+    {
+      "index": 5,
+      "index_chain": 5,
+      "chain_name": "Q",
+      "nt_resnum": 4,
+      "nt_name": "G",
+      "nt_code": "G",
+      "nt_id": "Q.G4",
+      "dbn": "(",
+      "summary": "anti,~C3'-endo,BI,canonical,non-pair-contact,helix,stem-end,hairpin-loop",
+      "alpha": -66.365,
+      "beta": 148.682,
+      "gamma": 68.679,
+      "delta": 78.08,
+      "epsilon": -146.308,
+      "zeta": -63.534,
+      "epsilon_zeta": -82.773,
+      "bb_type": "BI",
+      "chi": -173.102,
+      "glyco_bond": "anti",
+      "C5prime_xyz": [
+        -1.902,
+        8.652,
+        1.27
+      ],
+      "P_xyz": [
+        0.424,
+        9.596,
+        0.765
+      ],
+      "form": ".",
+      "ssZp": 4.724,
+      "Dp": 4.743,
+      "splay_angle": 26.254,
+      "splay_distance": 4.011,
+      "splay_ratio": 0.229,
+      "eta": 156.277,
+      "theta": -141.759,
+      "eta_prime": -178.231,
+      "theta_prime": -141.387,
+      "eta_base": -135.783,
+      "theta_base": -91.629,
+      "v0": -0.554,
+      "v1": -27.009,
+      "v2": 42.185,
+      "v3": -44.175,
+      "v4": 28.388,
+      "amplitude": 44.767,
+      "phase_angle": 19.552,
+      "puckering": "C3'-endo",
+      "sugar_class": "~C3'-endo",
+      "bin": "33p",
+      "cluster": "1a",
+      "suiteness": 0.109,
+      "filter_rmsd": 0.014,
+      "frame": {
+        "rmsd": 0.014,
+        "origin": [
+          12.473,
+          6.525,
+          -7.963
+        ],
+        "x_axis": [
+          0.332,
+          0.034,
+          0.943
+        ],
+        "y_axis": [
+          -0.554,
+          -0.802,
+          0.223
+        ],
+        "z_axis": [
+          0.764,
+          -0.596,
+          -0.247
+        ],
+        "quaternion": [
+          0.266,
+          0.772,
+          -0.169,
+          0.553
+        ]
+      }
+    },
+    {
+      "index": 6,
+      "index_chain": 6,
+      "chain_name": "Q",
+      "nt_resnum": 5,
+      "nt_name": "U",
+      "nt_code": "U",
+      "nt_id": "Q.U5",
+      "dbn": ".",
+      "summary": "anti,~C3'-endo,BI,non-canonical,non-pair-contact,helix-end,hairpin-loop",
+      "alpha": -67.018,
+      "beta": 176.677,
+      "gamma": 51.302,
+      "delta": 90.064,
+      "epsilon": -149.216,
+      "zeta": -82.535,
+      "epsilon_zeta": -66.681,
+      "bb_type": "BI",
+      "chi": -159.085,
+      "glyco_bond": "anti",
+      "C5prime_xyz": [
+        -1.191,
+        8.587,
+        0.459
+      ],
+      "P_xyz": [
+        1.348,
+        8.906,
+        0.494
+      ],
+      "form": ".",
+      "ssZp": 4.42,
+      "Dp": 4.637,
+      "splay_angle": 27.338,
+      "splay_distance": 4.413,
+      "splay_ratio": 0.24,
+      "eta": 167.759,
+      "theta": -155.123,
+      "eta_prime": -172.079,
+      "theta_prime": -156.081,
+      "eta_base": -101.922,
+      "theta_base": -156.087,
+      "v0": 10.235,
+      "v1": -30.242,
+      "v2": 38.098,
+      "v3": -32.661,
+      "v4": 14.412,
+      "amplitude": 38.159,
+      "phase_angle": 3.22,
+      "puckering": "C3'-endo",
+      "sugar_class": "~C3'-endo",
+      "bin": "33p",
+      "cluster": "1a",
+      "suiteness": 0.744,
+      "filter_rmsd": 0.101,
+      "frame": {
+        "rmsd": 0.012,
+        "origin": [
+          15.631,
+          5.03,
+          -5.993
+        ],
+        "x_axis": [
+          -0.163,
+          -0.649,
+          0.743
+        ],
+        "y_axis": [
+          -0.484,
+          -0.604,
+          -0.634
+        ],
+        "z_axis": [
+          0.86,
+          -0.462,
+          -0.216
+        ],
+        "quaternion": [
+          -0.067,
+          0.644,
+          -0.44,
+          0.623
+        ]
+      }
+    },
+    {
+      "index": 7,
+      "index_chain": 7,
+      "chain_name": "Q",
+      "nt_resnum": 6,
+      "nt_name": "A",
+      "nt_code": "A",
+      "nt_id": "Q.A6",
+      "dbn": ".",
+      "summary": "anti,~C3'-endo,BI,non-pair-contact,hairpin-loop",
+      "alpha": -75.476,
+      "beta": 167.351,
+      "gamma": 68.042,
+      "delta": 72.164,
+      "epsilon": -141.243,
+      "zeta": -86.102,
+      "epsilon_zeta": -55.141,
+      "bb_type": "BI",
+      "chi": -163.427,
+      "glyco_bond": "anti",
+      "C5prime_xyz": [
+        -1.696,
+        8.852,
+        0.67
+      ],
+      "P_xyz": [
+        0.746,
+        9.54,
+        0.551
+      ],
+      "form": "A",
+      "ssZp": 4.369,
+      "Dp": 4.635,
+      "splay_angle": 18.188,
+      "splay_distance": 2.936,
+      "splay_ratio": 0.159,
+      "eta": 173.205,
+      "theta": -147.679,
+      "eta_prime": 177.881,
+      "theta_prime": -144.846,
+      "eta_base": -174.456,
+      "theta_base": -106.184,
+      "v0": -1.622,
+      "v1": -29.716,
+      "v2": 47.247,
+      "v3": -48.768,
+      "v4": 32.086,
+      "amplitude": 50.261,
+      "phase_angle": 19.942,
+      "puckering": "C3'-endo",
+      "sugar_class": "~C3'-endo",
+      "bin": "33p",
+      "cluster": "1a",
+      "suiteness": 0.45,
+      "filter_rmsd": 0.043,
+      "frame": {
+        "rmsd": 0.011,
+        "origin": [
+          19.994,
+          5.629,
+          -6.275
+        ],
+        "x_axis": [
+          -0.444,
+          -0.666,
+          0.599
+        ],
+        "y_axis": [
+          -0.387,
+          -0.46,
+          -0.799
+        ],
+        "z_axis": [
+          0.808,
+          -0.587,
+          -0.053
+        ],
+        "quaternion": [
+          -0.102,
+          0.517,
+          -0.509,
+          0.68
+        ]
+      }
+    },
+    {
+      "index": 8,
+      "index_chain": 8,
+      "chain_name": "Q",
+      "nt_resnum": 7,
+      "nt_name": "U",
+      "nt_code": "U",
+      "nt_id": "Q.U7",
+      "dbn": ".",
+      "summary": "anti,~C3'-endo,BI,non-pair-contact,hairpin-loop",
+      "alpha": -26.889,
+      "beta": 146.103,
+      "gamma": 31.732,
+      "delta": 81.717,
+      "epsilon": -139.543,
+      "zeta": -82.772,
+      "epsilon_zeta": -56.772,
+      "bb_type": "BI",
+      "chi": -140.563,
+      "glyco_bond": "anti",
+      "C5prime_xyz": [
+        -1.651,
+        8.84,
+        -0.632
+      ],
+      "P_xyz": [
+        0.897,
+        9.279,
+        -1
+      ],
+      "form": ".",
+      "ssZp": 3.609,
+      "Dp": 4.68,
+      "splay_angle": 49.164,
+      "splay_distance": 7.982,
+      "splay_ratio": 0.416,
+      "eta": 171.652,
+      "theta": -144.215,
+      "eta_prime": -174.583,
+      "theta_prime": -129.941,
+      "eta_base": -125.432,
+      "theta_base": -114.928,
+      "v0": -3.671,
+      "v1": -23.552,
+      "v2": 39.55,
+      "v3": -42.587,
+      "v4": 29.503,
+      "amplitude": 43.034,
+      "phase_angle": 23.215,
+      "puckering": "C3'-endo",
+      "sugar_class": "~C3'-endo",
+      "bin": "33p",
+      "cluster": "1a",
+      "suiteness": 0.012,
+      "filter_rmsd": 0.096,
+      "frame": {
+        "rmsd": 0.018,
+        "origin": [
+          21.482,
+          3.415,
+          -5.049
+        ],
+        "x_axis": [
+          -0.561,
+          -0.826,
+          0.047
+        ],
+        "y_axis": [
+          0.186,
+          -0.181,
+          -0.966
+        ],
+        "z_axis": [
+          0.806,
+          -0.533,
+          0.255
+        ],
+        "quaternion": [
+          -0.358,
+          0.302,
+          -0.53,
+          0.707
+        ]
+      }
+    },
+    {
+      "index": 9,
+      "index_chain": 9,
+      "chain_name": "Q",
+      "nt_resnum": 8,
+      "nt_name": "U",
+      "nt_code": "U",
+      "nt_id": "Q.U8",
+      "dbn": ".",
+      "summary": "turn,anti,~C2'-endo,non-pair-contact,hairpin-loop,cap-donor",
+      "alpha": -66.321,
+      "beta": -154.296,
+      "gamma": 53.294,
+      "delta": 146.376,
+      "epsilon": -71.708,
+      "zeta": 77.66,
+      "epsilon_zeta": 210.631,
+      "bb_type": "..",
+      "chi": -138.516,
+      "glyco_bond": "anti",
+      "C5prime_xyz": [
+        -1.928,
+        8.774,
+        -0.217
+      ],
+      "P_xyz": [
+        -0.103,
+        9.431,
+        1.629
+      ],
+      "form": ".",
+      "ssZp": 0.567,
+      "Dp": 0.549,
+      "splay_angle": 33.971,
+      "splay_distance": 5.585,
+      "splay_ratio": 0.308,
+      "eta": -150.805,
+      "theta": 114.629,
+      "eta_prime": -135.272,
+      "theta_prime": 89.6,
+      "eta_base": -127.959,
+      "theta_base": 69.149,
+      "v0": -23.481,
+      "v1": 37.123,
+      "v2": -36.26,
+      "v3": 23.224,
+      "v4": 0.127,
+      "amplitude": 38.253,
+      "phase_angle": 161.423,
+      "puckering": "C2'-endo",
+      "sugar_class": "~C2'-endo",
+      "bin": "32p",
+      "cluster": "1[",
+      "suiteness": 0.819,
+      "filter_rmsd": 0.089,
+      "frame": {
+        "rmsd": 0.019,
+        "origin": [
+          25.545,
+          -3.44,
+          -4.6
+        ],
+        "x_axis": [
+          -0.984,
+          0.16,
+          -0.08
+        ],
+        "y_axis": [
+          0.167,
+          0.658,
+          -0.734
+        ],
+        "z_axis": [
+          -0.065,
+          -0.736,
+          -0.674
+        ],
+        "quaternion": [
+          0.004,
+          0.09,
+          0.911,
+          -0.404
+        ]
+      }
+    },
+    {
+      "index": 10,
+      "index_chain": 10,
+      "chain_name": "Q",
+      "nt_resnum": 9,
+      "nt_name": "G",
+      "nt_code": "G",
+      "nt_id": "Q.G9",
+      "dbn": ".",
+      "summary": "anti,~C3'-endo,BI,non-pair-contact,hairpin-loop,cap-acceptor,splayed-apart",
+      "alpha": -143.267,
+      "beta": 163.004,
+      "gamma": 70.988,
+      "delta": 83.63,
+      "epsilon": -148.957,
+      "zeta": -82.432,
+      "epsilon_zeta": -66.526,
+      "bb_type": "BI",
+      "chi": -96.451,
+      "glyco_bond": "anti",
+      "C5prime_xyz": [
+        -2.094,
+        7.676,
+        -2.803
+      ],
+      "P_xyz": [
+        -0.283,
+        6.812,
+        -4.493
+      ],
+      "form": ".",
+      "ssZp": 0.706,
+      "Dp": 4.632,
+      "splay_angle": 101.35,
+      "splay_distance": 15.206,
+      "splay_ratio": 0.774,
+      "eta": 143.1,
+      "theta": -130.268,
+      "eta_prime": 145.311,
+      "theta_prime": -131.79,
+      "eta_base": 133.912,
+      "theta_base": -109.92,
+      "v0": 2.543,
+      "v1": -24.599,
+      "v2": 36.158,
+      "v3": -35.217,
+      "v4": 20.783,
+      "amplitude": 37.354,
+      "phase_angle": 14.538,
+      "puckering": "C3'-endo",
+      "sugar_class": "~C3'-endo",
+      "bin": "23p",
+      "cluster": "6g",
+      "suiteness": 0.369,
+      "filter_rmsd": 0.009,
+      "frame": {
+        "rmsd": 0.009,
+        "origin": [
+          26.663,
+          1.996,
+          -5.224
+        ],
+        "x_axis": [
+          0.196,
+          -0.801,
+          0.565
+        ],
+        "y_axis": [
+          0.977,
+          0.109,
+          -0.184
+        ],
+        "z_axis": [
+          0.086,
+          0.588,
+          0.804
+        ],
+        "quaternion": [
+          0.726,
+          -0.266,
+          -0.165,
+          -0.612
+        ]
+      }
+    },
+    {
+      "index": 11,
+      "index_chain": 11,
+      "chain_name": "Q",
+      "nt_resnum": 10,
+      "nt_name": "C",
+      "nt_code": "C",
+      "nt_id": "Q.C10",
+      "dbn": ".",
+      "summary": "anti,~C2'-endo,non-stack,hairpin-loop,splayed-apart",
+      "alpha": 138.721,
+      "beta": 133.987,
+      "gamma": -51.311,
+      "delta": 179.657,
+      "epsilon": -126.095,
+      "zeta": 129.546,
+      "epsilon_zeta": 104.359,
+      "bb_type": "..",
+      "chi": -121.862,
+      "glyco_bond": "anti",
+      "C5prime_xyz": [
+        -1.3,
+        8.091,
+        -0.662
+      ],
+      "P_xyz": [
+        -0.09,
+        9.472,
+        1.185
+      ],
+      "form": ".",
+      "ssZp": 0.991,
+      "Dp": 0.982,
+      "splay_angle": 54.243,
+      "splay_distance": 8.564,
+      "splay_ratio": 0.458,
+      "eta": -114.062,
+      "theta": 138.934,
+      "eta_prime": -94.604,
+      "theta_prime": 125.532,
+      "eta_base": -114.865,
+      "theta_base": 150.044,
+      "v0": -5.564,
+      "v1": 32.335,
+      "v2": -44.641,
+      "v3": 43.153,
+      "v4": -24.124,
+      "amplitude": 45.65,
+      "phase_angle": 192.07,
+      "puckering": "C3'-exo",
+      "sugar_class": "~C2'-endo",
+      "bin": "trig",
+      "cluster": "!!",
+      "suiteness": 0,
+      "filter_rmsd": 0.051,
+      "frame": {
+        "rmsd": 0.019,
+        "origin": [
+          40.71,
+          0.412,
+          0.379
+        ],
+        "x_axis": [
+          -0.261,
+          -0.912,
+          -0.316
+        ],
+        "y_axis": [
+          -0.566,
+          0.41,
+          -0.716
+        ],
+        "z_axis": [
+          0.782,
+          -0.008,
+          -0.623
+        ],
+        "quaternion": [
+          0.363,
+          -0.488,
+          0.757,
+          -0.239
+        ]
+      }
+    },
+    {
+      "index": 12,
+      "index_chain": 12,
+      "chain_name": "Q",
+      "nt_resnum": 11,
+      "nt_name": "A",
+      "nt_code": "A",
+      "nt_id": "Q.A11",
+      "dbn": ".",
+      "summary": "anti,~C3'-endo,BI,non-pair-contact,hairpin-loop",
+      "alpha": -67.404,
+      "beta": 145.564,
+      "gamma": 54.224,
+      "delta": 85.255,
+      "epsilon": -154.887,
+      "zeta": -88.744,
+      "epsilon_zeta": -66.143,
+      "bb_type": "BI",
+      "chi": -156.742,
+      "glyco_bond": "anti",
+      "C5prime_xyz": [
+        -1.195,
+        8.774,
+        0.242
+      ],
+      "P_xyz": [
+        1.391,
+        8.797,
+        -0.023
+      ],
+      "form": ".",
+      "ssZp": 4.092,
+      "Dp": 4.345,
+      "splay_angle": 23,
+      "splay_distance": 4.018,
+      "splay_ratio": 0.249,
+      "eta": -172.333,
+      "theta": -150.14,
+      "eta_prime": -174.019,
+      "theta_prime": -149.276,
+      "eta_base": -162.359,
+      "theta_base": -82.843,
+      "v0": -0.387,
+      "v1": -24.677,
+      "v2": 39.283,
+      "v3": -40.163,
+      "v4": 25.761,
+      "amplitude": 41.547,
+      "phase_angle": 19.002,
+      "puckering": "C3'-endo",
+      "sugar_class": "~C3'-endo",
+      "bin": "trig",
+      "cluster": "!!",
+      "suiteness": 0,
+      "filter_rmsd": 0.049,
+      "frame": {
+        "rmsd": 0.019,
+        "origin": [
+          39.904,
+          7.575,
+          5.004
+        ],
+        "x_axis": [
+          0.899,
+          -0.294,
+          -0.324
+        ],
+        "y_axis": [
+          -0.265,
+          0.224,
+          -0.938
+        ],
+        "z_axis": [
+          0.348,
+          0.929,
+          0.124
+        ],
+        "quaternion": [
+          0.75,
+          -0.623,
+          0.224,
+          -0.01
+        ]
+      }
+    },
+    {
+      "index": 13,
+      "index_chain": 13,
+      "chain_name": "Q",
+      "nt_resnum": 12,
+      "nt_name": "G",
+      "nt_code": "G",
+      "nt_id": "Q.G12",
+      "dbn": ".",
+      "summary": "syn,~C2'-endo,non-pair-contact,hairpin-loop,phosphate,splayed-apart",
+      "alpha": -42.412,
+      "beta": 167.015,
+      "gamma": 45.606,
+      "delta": 139.917,
+      "epsilon": -135.664,
+      "zeta": 93.139,
+      "epsilon_zeta": 131.197,
+      "bb_type": "..",
+      "chi": 57.779,
+      "glyco_bond": "syn",
+      "C5prime_xyz": [
+        -5.705,
+        4.858,
+        1.148
+      ],
+      "P_xyz": [
+        -6.363,
+        2.335,
+        0.781
+      ],
+      "form": ".",
+      "ssZp": -2.4,
+      "Dp": 2.407,
+      "splay_angle": 86.724,
+      "splay_distance": 13.362,
+      "splay_ratio": 0.687,
+      "eta": -179.834,
+      "theta": 85.209,
+      "eta_prime": -157.119,
+      "theta_prime": 78.121,
+      "eta_base": -86.232,
+      "theta_base": 78.052,
+      "v0": -39.272,
+      "v1": 48.51,
+      "v2": -38.457,
+      "v3": 16.763,
+      "v4": 14.483,
+      "amplitude": 47.442,
+      "phase_angle": 144.156,
+      "puckering": "C2'-endo",
+      "sugar_class": "~C2'-endo",
+      "bin": "32p",
+      "cluster": "1b",
+      "suiteness": 0.483,
+      "filter_rmsd": 0.025,
+      "frame": {
+        "rmsd": 0.025,
+        "origin": [
+          41.206,
+          10.693,
+          2.829
+        ],
+        "x_axis": [
+          0.432,
+          -0.491,
+          0.756
+        ],
+        "y_axis": [
+          -0.687,
+          0.363,
+          0.629
+        ],
+        "z_axis": [
+          -0.584,
+          -0.792,
+          -0.181
+        ],
+        "quaternion": [
+          0.635,
+          0.559,
+          -0.527,
+          0.077
+        ]
+      }
+    },
+    {
+      "index": 14,
+      "index_chain": 14,
+      "chain_name": "Q",
+      "nt_resnum": 13,
+      "nt_name": "U",
+      "nt_code": "U",
+      "nt_id": "Q.U13",
+      "dbn": ".",
+      "summary": "anti,~C2'-endo,non-stack,non-pair-contact,hairpin-loop,splayed-apart",
+      "alpha": -62.845,
+      "beta": 154.87,
+      "gamma": 33.7,
+      "delta": 144.553,
+      "epsilon": -106.667,
+      "zeta": -82.462,
+      "epsilon_zeta": -24.205,
+      "bb_type": "..",
+      "chi": -122.874,
+      "glyco_bond": "anti",
+      "C5prime_xyz": [
+        -2.185,
+        8.565,
+        -1.134
+      ],
+      "P_xyz": [
+        0.006,
+        9.507,
+        -0.105
+      ],
+      "form": ".",
+      "ssZp": 0.658,
+      "Dp": 0.656,
+      "splay_angle": 107.259,
+      "splay_distance": 14.953,
+      "splay_ratio": 0.807,
+      "eta": -175.286,
+      "theta": -80.817,
+      "eta_prime": -152.213,
+      "theta_prime": -127.124,
+      "eta_base": -139.94,
+      "theta_base": -177.08,
+      "v0": -24.568,
+      "v1": 37.683,
+      "v2": -36.391,
+      "v3": 23.518,
+      "v4": 0.443,
+      "amplitude": 38.553,
+      "phase_angle": 160.721,
+      "puckering": "C2'-endo",
+      "sugar_class": "~C2'-endo",
+      "bin": "22p",
+      "cluster": "0b",
+      "suiteness": 0.098,
+      "filter_rmsd": 0.108,
+      "frame": {
+        "rmsd": 0.011,
+        "origin": [
+          28.111,
+          11.361,
+          5.4
+        ],
+        "x_axis": [
+          0.609,
+          -0.523,
+          0.596
+        ],
+        "y_axis": [
+          0.696,
+          0.713,
+          -0.085
+        ],
+        "z_axis": [
+          -0.381,
+          0.467,
+          0.798
+        ],
+        "quaternion": [
+          0.883,
+          -0.156,
+          -0.276,
+          -0.345
+        ]
+      }
+    },
+    {
+      "index": 15,
+      "index_chain": 15,
+      "chain_name": "Q",
+      "nt_resnum": 14,
+      "nt_name": "A",
+      "nt_code": "A",
+      "nt_id": "Q.A14",
+      "dbn": ".",
+      "summary": "turn,anti,~C3'-endo,non-pair-contact,hairpin-loop,splayed-apart",
+      "alpha": -113.342,
+      "beta": 164.236,
+      "gamma": -132.555,
+      "delta": 114.95,
+      "epsilon": -110.914,
+      "zeta": -63.702,
+      "epsilon_zeta": -47.212,
+      "bb_type": "..",
+      "chi": 172.197,
+      "glyco_bond": "anti",
+      "C5prime_xyz": [
+        -0.437,
+        6.821,
+        1.898
+      ],
+      "P_xyz": [
+        1.541,
+        7.824,
+        3.036
+      ],
+      "form": ".",
+      "ssZp": 4.843,
+      "Dp": 4.846,
+      "splay_angle": 30.239,
+      "splay_distance": 4.611,
+      "splay_ratio": 0.264,
+      "eta": -49.052,
+      "theta": -117.527,
+      "eta_prime": -18.101,
+      "theta_prime": -106.999,
+      "eta_base": 27.954,
+      "theta_base": -56.561,
+      "v0": 40.19,
+      "v1": -46.505,
+      "v2": 35.921,
+      "v3": -13.302,
+      "v4": -16.784,
+      "amplitude": 46.355,
+      "phase_angle": 320.796,
+      "puckering": "C1'-endo",
+      "sugar_class": "~C3'-endo",
+      "bin": "trig",
+      "cluster": "!!",
+      "suiteness": 0,
+      "filter_rmsd": 0.042,
+      "frame": {
+        "rmsd": 0.018,
+        "origin": [
+          22.051,
+          23.019,
+          -1.739
+        ],
+        "x_axis": [
+          0.591,
+          0.089,
+          -0.802
+        ],
+        "y_axis": [
+          0.802,
+          0.046,
+          0.596
+        ],
+        "z_axis": [
+          0.09,
+          -0.995,
+          -0.045
+        ],
+        "quaternion": [
+          0.631,
+          0.63,
+          0.353,
+          -0.282
+        ]
+      }
+    },
+    {
+      "index": 16,
+      "index_chain": 16,
+      "chain_name": "Q",
+      "nt_resnum": 15,
+      "nt_name": "C",
+      "nt_code": "C",
+      "nt_id": "Q.C15",
+      "dbn": ".",
+      "summary": "anti,~C3'-endo,BI,non-pair-contact,hairpin-loop,phosphate",
+      "alpha": -59.099,
+      "beta": 165.837,
+      "gamma": 44.428,
+      "delta": 80.479,
+      "epsilon": -150.237,
+      "zeta": -78.994,
+      "epsilon_zeta": -71.243,
+      "bb_type": "BI",
+      "chi": -162.753,
+      "glyco_bond": "anti",
+      "C5prime_xyz": [
+        -1.352,
+        8.806,
+        0.683
+      ],
+      "P_xyz": [
+        1.283,
+        8.961,
+        1.02
+      ],
+      "form": "A",
+      "ssZp": 4.5,
+      "Dp": 4.694,
+      "splay_angle": 17.051,
+      "splay_distance": 2.753,
+      "splay_ratio": 0.149,
+      "eta": 153.654,
+      "theta": -141.549,
+      "eta_prime": -172.701,
+      "theta_prime": -132.303,
+      "eta_base": -102.001,
+      "theta_base": -104.007,
+      "v0": 3.713,
+      "v1": -30.231,
+      "v2": 43.704,
+      "v3": -41.652,
+      "v4": 24.278,
+      "amplitude": 44.922,
+      "phase_angle": 13.377,
+      "puckering": "C3'-endo",
+      "sugar_class": "~C3'-endo",
+      "bin": "trig",
+      "cluster": "!!",
+      "suiteness": 0,
+      "filter_rmsd": 0.069,
+      "frame": {
+        "rmsd": 0.011,
+        "origin": [
+          24.64,
+          20.534,
+          -4.635
+        ],
+        "x_axis": [
+          0.982,
+          0.166,
+          0.095
+        ],
+        "y_axis": [
+          -0.066,
+          -0.174,
+          0.983
+        ],
+        "z_axis": [
+          0.18,
+          -0.971,
+          -0.16
+        ],
+        "quaternion": [
+          0.642,
+          0.761,
+          0.033,
+          0.09
+        ]
+      }
+    },
+    {
+      "index": 17,
+      "index_chain": 17,
+      "chain_name": "Q",
+      "nt_resnum": 16,
+      "nt_name": "C",
+      "nt_code": "C",
+      "nt_id": "Q.C16",
+      "dbn": ".",
+      "summary": "anti,~C2'-endo,non-pair-contact,hairpin-loop,splayed-apart",
+      "alpha": -44.891,
+      "beta": 153.296,
+      "gamma": 60.945,
+      "delta": 143.997,
+      "epsilon": -120.54,
+      "zeta": -165.18,
+      "epsilon_zeta": 44.64,
+      "bb_type": "..",
+      "chi": -128.203,
+      "glyco_bond": "anti",
+      "C5prime_xyz": [
+        -2.241,
+        8.788,
+        -1.209
+      ],
+      "P_xyz": [
+        0.335,
+        9.315,
+        -0.998
+      ],
+      "form": ".",
+      "ssZp": 1.751,
+      "Dp": 1.755,
+      "splay_angle": 136.038,
+      "splay_distance": 17.735,
+      "splay_ratio": 0.927,
+      "eta": -173.649,
+      "theta": -128.641,
+      "eta_prime": -137.248,
+      "theta_prime": -156.952,
+      "eta_base": -103.884,
+      "theta_base": -161.928,
+      "v0": -39.766,
+      "v1": 44.869,
+      "v2": -34.979,
+      "v3": 12.459,
+      "v4": 17.239,
+      "amplitude": 45.471,
+      "phase_angle": 140.288,
+      "puckering": "C1'-exo",
+      "sugar_class": "~C2'-endo",
+      "bin": "32p",
+      "cluster": "1b",
+      "suiteness": 0.628,
+      "filter_rmsd": 0.079,
+      "frame": {
+        "rmsd": 0.021,
+        "origin": [
+          26.378,
+          18.629,
+          -5.598
+        ],
+        "x_axis": [
+          0.771,
+          0.189,
+          0.608
+        ],
+        "y_axis": [
+          -0.431,
+          -0.547,
+          0.717
+        ],
+        "z_axis": [
+          0.469,
+          -0.815,
+          -0.34
+        ],
+        "quaternion": [
+          0.47,
+          0.815,
+          -0.074,
+          0.33
+        ]
+      }
+    },
+    {
+      "index": 18,
+      "index_chain": 18,
+      "chain_name": "Q",
+      "nt_resnum": 17,
+      "nt_name": "U",
+      "nt_code": "U",
+      "nt_id": "Q.U17",
+      "dbn": ".",
+      "summary": "anti,~C3'-endo,BI,non-canonical,non-pair-contact,helix-end,hairpin-loop,phosphate,splayed-apart",
+      "alpha": 44.842,
+      "beta": 158.527,
+      "gamma": 45.976,
+      "delta": 86.641,
+      "epsilon": -135.702,
+      "zeta": -82.002,
+      "epsilon_zeta": -53.7,
+      "bb_type": "BI",
+      "chi": -161.991,
+      "glyco_bond": "anti",
+      "C5prime_xyz": [
+        -1.512,
+        8.755,
+        0.638
+      ],
+      "P_xyz": [
+        1.066,
+        9.051,
+        0.915
+      ],
+      "form": "A",
+      "ssZp": 4.384,
+      "Dp": 4.601,
+      "splay_angle": 22.578,
+      "splay_distance": 3.6,
+      "splay_ratio": 0.196,
+      "eta": -76.838,
+      "theta": -134.98,
+      "eta_prime": -70.634,
+      "theta_prime": -136.031,
+      "eta_base": -52.973,
+      "theta_base": -93.392,
+      "v0": 1.512,
+      "v1": -28.487,
+      "v2": 42.613,
+      "v3": -42.582,
+      "v4": 26.419,
+      "amplitude": 44.457,
+      "phase_angle": 16.561,
+      "puckering": "C3'-endo",
+      "sugar_class": "~C3'-endo",
+      "bin": "23p",
+      "cluster": "4d",
+      "suiteness": 0.047,
+      "filter_rmsd": 0.097,
+      "frame": {
+        "rmsd": 0.009,
+        "origin": [
+          15.259,
+          5.267,
+          -9.111
+        ],
+        "x_axis": [
+          -0.372,
+          -0.285,
+          0.883
+        ],
+        "y_axis": [
+          0.564,
+          0.686,
+          0.459
+        ],
+        "z_axis": [
+          -0.737,
+          0.67,
+          -0.094
+        ],
+        "quaternion": [
+          0.552,
+          -0.095,
+          -0.734,
+          -0.385
+        ]
+      }
+    },
+    {
+      "index": 19,
+      "index_chain": 19,
+      "chain_name": "Q",
+      "nt_resnum": 18,
+      "nt_name": "C",
+      "nt_code": "C",
+      "nt_id": "Q.C18",
+      "dbn": ")",
+      "summary": "anti,~C3'-endo,BI,canonical,non-pair-contact,helix,stem-end,hairpin-loop",
+      "alpha": -59.315,
+      "beta": 154.159,
+      "gamma": 54.944,
+      "delta": 80.827,
+      "epsilon": -154.314,
+      "zeta": -72.916,
+      "epsilon_zeta": -81.398,
+      "bb_type": "BI",
+      "chi": -166.033,
+      "glyco_bond": "anti",
+      "C5prime_xyz": [
+        -1.33,
+        8.786,
+        0.724
+      ],
+      "P_xyz": [
+        1.23,
+        9.159,
+        0.478
+      ],
+      "form": "A",
+      "ssZp": 4.562,
+      "Dp": 4.659,
+      "splay_angle": 21.738,
+      "splay_distance": 3.556,
+      "splay_ratio": 0.192,
+      "eta": 162.137,
+      "theta": -145.755,
+      "eta_prime": -178.069,
+      "theta_prime": -147.488,
+      "eta_base": -114.747,
+      "theta_base": -130.705,
+      "v0": -1.293,
+      "v1": -27.593,
+      "v2": 43.415,
+      "v3": -45.489,
+      "v4": 30.008,
+      "amplitude": 46.264,
+      "phase_angle": 20.213,
+      "puckering": "C3'-endo",
+      "sugar_class": "~C3'-endo",
+      "bin": "33p",
+      "cluster": "1a",
+      "suiteness": 0.714,
+      "filter_rmsd": 0.072,
+      "frame": {
+        "rmsd": 0.02,
+        "origin": [
+          12.21,
+          6.547,
+          -7.686
+        ],
+        "x_axis": [
+          0.152,
+          0.211,
+          0.966
+        ],
+        "y_axis": [
+          0.582,
+          0.77,
+          -0.26
+        ],
+        "z_axis": [
+          -0.798,
+          0.602,
+          -0.005
+        ],
+        "quaternion": [
+          0.692,
+          -0.311,
+          -0.637,
+          -0.134
+        ]
+      }
+    },
+    {
+      "index": 20,
+      "index_chain": 20,
+      "chain_name": "Q",
+      "nt_resnum": 19,
+      "nt_name": "C",
+      "nt_code": "C",
+      "nt_id": "Q.C19",
+      "dbn": ")",
+      "summary": "anti,~C3'-endo,BI,canonical,non-pair-contact,helix,stem",
+      "alpha": -55.87,
+      "beta": 178.75,
+      "gamma": 28.502,
+      "delta": 82.854,
+      "epsilon": -156.949,
+      "zeta": -71.943,
+      "epsilon_zeta": -85.006,
+      "bb_type": "BI",
+      "chi": -153.416,
+      "glyco_bond": "anti",
+      "C5prime_xyz": [
+        -1.525,
+        8.813,
+        0.099
+      ],
+      "P_xyz": [
+        0.973,
+        9.535,
+        0.573
+      ],
+      "form": "A",
+      "ssZp": 4.329,
+      "Dp": 4.663,
+      "splay_angle": 19.742,
+      "splay_distance": 3.204,
+      "splay_ratio": 0.175,
+      "eta": 161.853,
+      "theta": -150.204,
+      "eta_prime": 175.057,
+      "theta_prime": -148.38,
+      "eta_base": -151.368,
+      "theta_base": -122.945,
+      "v0": 7.364,
+      "v1": -31.816,
+      "v2": 43.252,
+      "v3": -39.615,
+      "v4": 20.444,
+      "amplitude": 43.781,
+      "phase_angle": 8.914,
+      "puckering": "C3'-endo",
+      "sugar_class": "~C3'-endo",
+      "bin": "33p",
+      "cluster": "1a",
+      "suiteness": 0.18,
+      "filter_rmsd": 0.056,
+      "frame": {
+        "rmsd": 0.013,
+        "origin": [
+          8.838,
+          7.172,
+          -6.745
+        ],
+        "x_axis": [
+          0.507,
+          0.483,
+          0.714
+        ],
+        "y_axis": [
+          0.351,
+          0.641,
+          -0.682
+        ],
+        "z_axis": [
+          -0.787,
+          0.596,
+          0.156
+        ],
+        "quaternion": [
+          0.759,
+          -0.421,
+          -0.495,
+          0.043
+        ]
+      }
+    },
+    {
+      "index": 21,
+      "index_chain": 21,
+      "chain_name": "Q",
+      "nt_resnum": 20,
+      "nt_name": "A",
+      "nt_code": "A",
+      "nt_id": "Q.A20",
+      "dbn": ")",
+      "summary": "anti,~C3'-endo,BI,canonical,non-pair-contact,helix,stem",
+      "alpha": -71.241,
+      "beta": 177.282,
+      "gamma": 51.331,
+      "delta": 85.214,
+      "epsilon": -160.492,
+      "zeta": -73.047,
+      "epsilon_zeta": -87.445,
+      "bb_type": "BI",
+      "chi": -158.587,
+      "glyco_bond": "anti",
+      "C5prime_xyz": [
+        -1.588,
+        8.833,
+        0.239
+      ],
+      "P_xyz": [
+        1.027,
+        9.425,
+        0.144
+      ],
+      "form": "A",
+      "ssZp": 4.43,
+      "Dp": 4.594,
+      "splay_angle": 23.342,
+      "splay_distance": 3.772,
+      "splay_ratio": 0.208,
+      "eta": 159.239,
+      "theta": -149.834,
+      "eta_prime": 172.985,
+      "theta_prime": -151.168,
+      "eta_base": -147.068,
+      "theta_base": -132.11,
+      "v0": -0.975,
+      "v1": -25.382,
+      "v2": 40.612,
+      "v3": -41.767,
+      "v4": 27.355,
+      "amplitude": 43.132,
+      "phase_angle": 19.684,
+      "puckering": "C3'-endo",
+      "sugar_class": "~C3'-endo",
+      "bin": "33p",
+      "cluster": "1a",
+      "suiteness": 0.895,
+      "filter_rmsd": 0.044,
+      "frame": {
+        "rmsd": 0.014,
+        "origin": [
+          6.794,
+          8.465,
+          -4.645
+        ],
+        "x_axis": [
+          0.779,
+          0.586,
+          0.221
+        ],
+        "y_axis": [
+          -0.076,
+          0.439,
+          -0.895
+        ],
+        "z_axis": [
+          -0.622,
+          0.681,
+          0.387
+        ],
+        "quaternion": [
+          0.807,
+          -0.488,
+          -0.261,
+          0.205
+        ]
+      }
+    },
+    {
+      "index": 22,
+      "index_chain": 22,
+      "chain_name": "Q",
+      "nt_resnum": 21,
+      "nt_name": "G",
+      "nt_code": "G",
+      "nt_id": "Q.G21",
+      "dbn": ")",
+      "summary": "anti,~C3'-endo,BI,canonical,non-pair-contact,helix,stem",
+      "alpha": -86.392,
+      "beta": 170.552,
+      "gamma": 74.238,
+      "delta": 75.794,
+      "epsilon": -148.799,
+      "zeta": -66.583,
+      "epsilon_zeta": -82.216,
+      "bb_type": "BI",
+      "chi": -172.83,
+      "glyco_bond": "anti",
+      "C5prime_xyz": [
+        -1.888,
+        8.744,
+        1.2
+      ],
+      "P_xyz": [
+        0.569,
+        9.469,
+        0.763
+      ],
+      "form": "A",
+      "ssZp": 4.748,
+      "Dp": 4.787,
+      "splay_angle": 26.671,
+      "splay_distance": 4.234,
+      "splay_ratio": 0.236,
+      "eta": 166.015,
+      "theta": -144.588,
+      "eta_prime": 179.164,
+      "theta_prime": -146.074,
+      "eta_base": -145.614,
+      "theta_base": -113.205,
+      "v0": -0.839,
+      "v1": -29.128,
+      "v2": 45.991,
+      "v3": -47.316,
+      "v4": 30.536,
+      "amplitude": 48.729,
+      "phase_angle": 19.298,
+      "puckering": "C3'-endo",
+      "sugar_class": "~C3'-endo",
+      "bin": "33p",
+      "cluster": "1a",
+      "suiteness": 0.243,
+      "filter_rmsd": 0.013,
+      "frame": {
+        "rmsd": 0.013,
+        "origin": [
+          5.644,
+          10.323,
+          -1.57
+        ],
+        "x_axis": [
+          0.715,
+          0.664,
+          -0.218
+        ],
+        "y_axis": [
+          -0.438,
+          0.184,
+          -0.88
+        ],
+        "z_axis": [
+          -0.544,
+          0.725,
+          0.423
+        ],
+        "quaternion": [
+          0.762,
+          -0.526,
+          -0.107,
+          0.362
+        ]
+      }
+    },
+    {
+      "index": 23,
+      "index_chain": 23,
+      "chain_name": "Q",
+      "nt_resnum": 22,
+      "nt_name": "G",
+      "nt_code": "G",
+      "nt_id": "Q.G22",
+      "dbn": ")",
+      "summary": "anti,~C3'-endo,canonical,non-pair-contact,helix-end,stem-end",
+      "alpha": -54.814,
+      "beta": 179.89,
+      "gamma": 43.369,
+      "delta": 88.696,
+      "epsilon": -123.055,
+      "zeta": -97.727,
+      "epsilon_zeta": -25.328,
+      "bb_type": "..",
+      "chi": -164.624,
+      "glyco_bond": "anti",
+      "C5prime_xyz": [
+        -1.286,
+        8.702,
+        0.823
+      ],
+      "P_xyz": [
+        1.158,
+        9.253,
+        1.41
+      ],
+      "form": "A",
+      "ssZp": 4.433,
+      "Dp": 4.683,
+      "splay_angle": 21.157,
+      "splay_distance": 3.603,
+      "splay_ratio": 0.188,
+      "eta": -176.789,
+      "theta": -127.584,
+      "eta_prime": -167.067,
+      "theta_prime": -135.06,
+      "eta_base": -121.375,
+      "theta_base": -108.486,
+      "v0": 7.573,
+      "v1": -29.176,
+      "v2": 38.801,
+      "v3": -35.186,
+      "v4": 17.466,
+      "amplitude": 39.144,
+      "phase_angle": 7.586,
+      "puckering": "C3'-endo",
+      "sugar_class": "~C3'-endo",
+      "bin": "33p",
+      "cluster": "1a",
+      "suiteness": 0.657,
+      "filter_rmsd": 0.015,
+      "frame": {
+        "rmsd": 0.015,
+        "origin": [
+          6.048,
+          13.95,
+          0.577
+        ],
+        "x_axis": [
+          0.319,
+          0.531,
+          -0.785
+        ],
+        "y_axis": [
+          -0.809,
+          -0.28,
+          -0.517
+        ],
+        "z_axis": [
+          -0.495,
+          0.8,
+          0.34
+        ],
+        "quaternion": [
+          0.587,
+          -0.561,
+          0.124,
+          0.57
+        ]
+      }
+    },
+    {
+      "index": 24,
+      "index_chain": 24,
+      "chain_name": "Q",
+      "nt_resnum": 23,
+      "nt_name": "U",
+      "nt_code": "U",
+      "nt_id": "Q.U23",
+      "dbn": ".",
+      "summary": "anti,~C3'-endo,non-pair-contact,ss-non-loop",
+      "alpha": 73.036,
+      "beta": -142.417,
+      "gamma": -122.208,
+      "delta": 104.89,
+      "epsilon": null,
+      "zeta": null,
+      "epsilon_zeta": null,
+      "bb_type": "n/a",
+      "chi": -165.338,
+      "glyco_bond": "anti",
+      "C5prime_xyz": [
+        -0.455,
+        7.783,
+        0.878
+      ],
+      "P_xyz": [
+        0.758,
+        9.948,
+        0.076
+      ],
+      "form": "-",
+      "ssZp": null,
+      "Dp": null,
+      "splay_angle": null,
+      "splay_distance": null,
+      "splay_ratio": null,
+      "eta": null,
+      "theta": null,
+      "eta_prime": null,
+      "theta_prime": null,
+      "eta_base": null,
+      "theta_base": null,
+      "v0": 30.784,
+      "v1": -42.142,
+      "v2": 36.551,
+      "v3": -19.872,
+      "v4": -6.677,
+      "amplitude": 41.384,
+      "phase_angle": 332.033,
+      "puckering": "C2'-exo",
+      "sugar_class": "~C3'-endo",
+      "bin": "trig",
+      "cluster": "!!",
+      "suiteness": 0,
+      "filter_rmsd": 0.094,
+      "frame": {
+        "rmsd": 0.019,
+        "origin": [
+          6.144,
+          17.501,
+          1.182
+        ],
+        "x_axis": [
+          -0.12,
+          0.296,
+          -0.948
+        ],
+        "y_axis": [
+          -0.92,
+          -0.393,
+          -0.006
+        ],
+        "z_axis": [
+          -0.374,
+          0.871,
+          0.319
+        ],
+        "quaternion": [
+          0.449,
+          -0.488,
+          0.319,
+          0.677
+        ]
+      }
+    },
+    {
+      "index": 25,
+      "index_chain": 1,
+      "chain_name": "R",
+      "nt_resnum": 0,
+      "nt_name": "C",
+      "nt_code": "C",
+      "nt_id": "R.C0",
+      "dbn": "(",
+      "summary": "anti,~C3'-endo,BI,canonical,non-pair-contact,helix-end,stem-end",
+      "alpha": null,
+      "beta": null,
+      "gamma": 72.649,
+      "delta": 78.398,
+      "epsilon": -148.517,
+      "zeta": -84.996,
+      "epsilon_zeta": -63.521,
+      "bb_type": "BI",
+      "chi": -169.988,
+      "glyco_bond": "anti",
+      "C5prime_xyz": [
+        -1.697,
+        8.956,
+        0.855
+      ],
+      "P_xyz": [
+        null,
+        null,
+        null
+      ],
+      "form": "A",
+      "ssZp": 4.508,
+      "Dp": 4.566,
+      "splay_angle": 24.129,
+      "splay_distance": 3.823,
+      "splay_ratio": 0.21,
+      "eta": null,
+      "theta": null,
+      "eta_prime": null,
+      "theta_prime": null,
+      "eta_base": null,
+      "theta_base": null,
+      "v0": -11.953,
+      "v1": -18.015,
+      "v2": 39.624,
+      "v3": -46.849,
+      "v4": 37.297,
+      "amplitude": 47.051,
+      "phase_angle": 32.631,
+      "puckering": "C3'-endo",
+      "sugar_class": "~C3'-endo",
+      "bin": "inc",
+      "cluster": "__",
+      "suiteness": 0,
+      "filter_rmsd": 0.05,
+      "frame": {
+        "rmsd": 0.021,
+        "origin": [
+          23.513,
+          -37.266,
+          70.029
+        ],
+        "x_axis": [
+          0.795,
+          -0.105,
+          0.598
+        ],
+        "y_axis": [
+          0.586,
+          -0.125,
+          -0.801
+        ],
+        "z_axis": [
+          0.159,
+          0.987,
+          -0.037
+        ],
+        "quaternion": [
+          0.639,
+          -0.699,
+          -0.172,
+          -0.27
+        ]
+      }
+    },
+    {
+      "index": 26,
+      "index_chain": 2,
+      "chain_name": "R",
+      "nt_resnum": 1,
+      "nt_name": "C",
+      "nt_code": "C",
+      "nt_id": "R.C1",
+      "dbn": "(",
+      "summary": "anti,~C3'-endo,BI,canonical,non-pair-contact,helix,stem",
+      "alpha": -57.376,
+      "beta": 175.504,
+      "gamma": 40.477,
+      "delta": 92.475,
+      "epsilon": -148.685,
+      "zeta": -94.824,
+      "epsilon_zeta": -53.861,
+      "bb_type": "BI",
+      "chi": -160.641,
+      "glyco_bond": "anti",
+      "C5prime_xyz": [
+        -1.421,
+        8.794,
+        0.431
+      ],
+      "P_xyz": [
+        1.126,
+        9.179,
+        0.929
+      ],
+      "form": "A",
+      "ssZp": 4.416,
+      "Dp": 4.58,
+      "splay_angle": 23.248,
+      "splay_distance": 3.823,
+      "splay_ratio": 0.203,
+      "eta": 169.79,
+      "theta": -133.697,
+      "eta_prime": -177.842,
+      "theta_prime": -142.476,
+      "eta_base": -137.861,
+      "theta_base": -121.488,
+      "v0": 1.089,
+      "v1": -26.914,
+      "v2": 40.734,
+      "v3": -40.643,
+      "v4": 25.441,
+      "amplitude": 42.572,
+      "phase_angle": 16.897,
+      "puckering": "C3'-endo",
+      "sugar_class": "~C3'-endo",
+      "bin": "33p",
+      "cluster": "1a",
+      "suiteness": 0.468,
+      "filter_rmsd": 0.061,
+      "frame": {
+        "rmsd": 0.012,
+        "origin": [
+          24.139,
+          -33.795,
+          71.502
+        ],
+        "x_axis": [
+          0.942,
+          -0.333,
+          0.031
+        ],
+        "y_axis": [
+          0.031,
+          -0.007,
+          -1
+        ],
+        "z_axis": [
+          0.333,
+          0.943,
+          0.004
+        ],
+        "quaternion": [
+          0.696,
+          -0.697,
+          0.108,
+          -0.131
+        ]
+      }
+    },
+    {
+      "index": 27,
+      "index_chain": 3,
+      "chain_name": "R",
+      "nt_resnum": 2,
+      "nt_name": "U",
+      "nt_code": "U",
+      "nt_id": "R.U2",
+      "dbn": "(",
+      "summary": "anti,~C3'-endo,BI,canonical,non-pair-contact,helix,stem",
+      "alpha": 76.779,
+      "beta": -168.114,
+      "gamma": -109.319,
+      "delta": 115.233,
+      "epsilon": -139.42,
+      "zeta": -72.908,
+      "epsilon_zeta": -66.512,
+      "bb_type": "BI",
+      "chi": -158.386,
+      "glyco_bond": "anti",
+      "C5prime_xyz": [
+        -0.396,
+        7.508,
+        0.721
+      ],
+      "P_xyz": [
+        1.145,
+        9.565,
+        0.785
+      ],
+      "form": "A",
+      "ssZp": 4.245,
+      "Dp": 4.59,
+      "splay_angle": 19.435,
+      "splay_distance": 3.424,
+      "splay_ratio": 0.176,
+      "eta": 175.199,
+      "theta": -135.887,
+      "eta_prime": -178.503,
+      "theta_prime": -140.876,
+      "eta_base": -144.29,
+      "theta_base": -122.506,
+      "v0": 36.806,
+      "v1": -42.093,
+      "v2": 30.382,
+      "v3": -9.548,
+      "v4": -17.302,
+      "amplitude": 41.422,
+      "phase_angle": 317.178,
+      "puckering": "C1'-endo",
+      "sugar_class": "~C3'-endo",
+      "bin": "trig",
+      "cluster": "!!",
+      "suiteness": 0,
+      "filter_rmsd": 0.107,
+      "frame": {
+        "rmsd": 0.025,
+        "origin": [
+          25.949,
+          -30.773,
+          72.99
+        ],
+        "x_axis": [
+          0.718,
+          -0.488,
+          -0.496
+        ],
+        "y_axis": [
+          -0.453,
+          0.213,
+          -0.866
+        ],
+        "z_axis": [
+          0.528,
+          0.847,
+          -0.068
+        ],
+        "quaternion": [
+          0.683,
+          -0.627,
+          0.375,
+          -0.013
+        ]
+      }
+    },
+    {
+      "index": 28,
+      "index_chain": 4,
+      "chain_name": "R",
+      "nt_resnum": 3,
+      "nt_name": "G",
+      "nt_code": "G",
+      "nt_id": "R.G3",
+      "dbn": "(",
+      "summary": "anti,~C3'-endo,canonical,non-pair-contact,helix,stem",
+      "alpha": 111.242,
+      "beta": -173.224,
+      "gamma": -153.407,
+      "delta": 95.928,
+      "epsilon": -125.766,
+      "zeta": -68.865,
+      "epsilon_zeta": -56.901,
+      "bb_type": "..",
+      "chi": -167.971,
+      "glyco_bond": "anti",
+      "C5prime_xyz": [
+        -0.779,
+        8.071,
+        1.112
+      ],
+      "P_xyz": [
+        0.326,
+        10.217,
+        0.185
+      ],
+      "form": "A",
+      "ssZp": 4.57,
+      "Dp": 4.806,
+      "splay_angle": 22.873,
+      "splay_distance": 3.754,
+      "splay_ratio": 0.201,
+      "eta": 153.177,
+      "theta": -163.109,
+      "eta_prime": 170.624,
+      "theta_prime": -153.093,
+      "eta_base": -155.588,
+      "theta_base": -122.305,
+      "v0": 25.479,
+      "v1": -36.476,
+      "v2": 33.085,
+      "v3": -19.255,
+      "v4": -4.068,
+      "amplitude": 36.408,
+      "phase_angle": 335.331,
+      "puckering": "C2'-exo",
+      "sugar_class": "~C3'-endo",
+      "bin": "trig",
+      "cluster": "!!",
+      "suiteness": 0,
+      "filter_rmsd": 0.019,
+      "frame": {
+        "rmsd": 0.019,
+        "origin": [
+          28.817,
+          -29.133,
+          73.889
+        ],
+        "x_axis": [
+          0.346,
+          -0.49,
+          -0.8
+        ],
+        "y_axis": [
+          -0.64,
+          0.5,
+          -0.584
+        ],
+        "z_axis": [
+          0.686,
+          0.714,
+          -0.14
+        ],
+        "quaternion": [
+          0.653,
+          -0.497,
+          0.569,
+          0.057
+        ]
+      }
+    },
+    {
+      "index": 29,
+      "index_chain": 5,
+      "chain_name": "R",
+      "nt_resnum": 4,
+      "nt_name": "G",
+      "nt_code": "G",
+      "nt_id": "R.G4",
+      "dbn": "(",
+      "summary": "anti,~C3'-endo,BI,canonical,non-pair-contact,helix,stem-end,hairpin-loop",
+      "alpha": -52.58,
+      "beta": 159.004,
+      "gamma": 41.068,
+      "delta": 83.606,
+      "epsilon": -157.232,
+      "zeta": -74.471,
+      "epsilon_zeta": -82.761,
+      "bb_type": "BI",
+      "chi": -170.083,
+      "glyco_bond": "anti",
+      "C5prime_xyz": [
+        -2.12,
+        8.666,
+        0.981
+      ],
+      "P_xyz": [
+        0.305,
+        9.598,
+        0.979
+      ],
+      "form": ".",
+      "ssZp": 4.669,
+      "Dp": 4.691,
+      "splay_angle": 26.383,
+      "splay_distance": 3.958,
+      "splay_ratio": 0.231,
+      "eta": 152.506,
+      "theta": -147.525,
+      "eta_prime": 178.498,
+      "theta_prime": -144.366,
+      "eta_base": -133.211,
+      "theta_base": -96.544,
+      "v0": 1.576,
+      "v1": -31.321,
+      "v2": 47.386,
+      "v3": -48.167,
+      "v4": 29.607,
+      "amplitude": 49.579,
+      "phase_angle": 17.104,
+      "puckering": "C3'-endo",
+      "sugar_class": "~C3'-endo",
+      "bin": "33p",
+      "cluster": "1a",
+      "suiteness": 0.292,
+      "filter_rmsd": 0.027,
+      "frame": {
+        "rmsd": 0.027,
+        "origin": [
+          32.319,
+          -28.326,
+          72.806
+        ],
+        "x_axis": [
+          -0.113,
+          -0.263,
+          -0.958
+        ],
+        "y_axis": [
+          -0.69,
+          0.715,
+          -0.115
+        ],
+        "z_axis": [
+          0.715,
+          0.648,
+          -0.262
+        ],
+        "quaternion": [
+          0.579,
+          -0.329,
+          0.723,
+          0.184
+        ]
+      }
+    },
+    {
+      "index": 30,
+      "index_chain": 6,
+      "chain_name": "R",
+      "nt_resnum": 5,
+      "nt_name": "U",
+      "nt_code": "U",
+      "nt_id": "R.U5",
+      "dbn": ".",
+      "summary": "anti,~C3'-endo,BI,non-canonical,non-pair-contact,helix-end,hairpin-loop",
+      "alpha": -55.791,
+      "beta": 165.349,
+      "gamma": 49.35,
+      "delta": 88.519,
+      "epsilon": -149.089,
+      "zeta": -89.444,
+      "epsilon_zeta": -59.645,
+      "bb_type": "BI",
+      "chi": -159.915,
+      "glyco_bond": "anti",
+      "C5prime_xyz": [
+        -1.42,
+        8.616,
+        0.559
+      ],
+      "P_xyz": [
+        1.196,
+        8.786,
+        0.471
+      ],
+      "form": ".",
+      "ssZp": 4.514,
+      "Dp": 4.675,
+      "splay_angle": 27.651,
+      "splay_distance": 4.475,
+      "splay_ratio": 0.243,
+      "eta": 172.087,
+      "theta": -151.392,
+      "eta_prime": -169.417,
+      "theta_prime": -154.492,
+      "eta_base": -104.311,
+      "theta_base": -154.14,
+      "v0": 12.66,
+      "v1": -32.931,
+      "v2": 39.794,
+      "v3": -33.189,
+      "v4": 13.229,
+      "amplitude": 39.795,
+      "phase_angle": 0.387,
+      "puckering": "C3'-endo",
+      "sugar_class": "~C3'-endo",
+      "bin": "33p",
+      "cluster": "1a",
+      "suiteness": 0.764,
+      "filter_rmsd": 0.099,
+      "frame": {
+        "rmsd": 0.014,
+        "origin": [
+          34.351,
+          -27.484,
+          69.516
+        ],
+        "x_axis": [
+          -0.504,
+          0.428,
+          -0.751
+        ],
+        "y_axis": [
+          -0.265,
+          0.75,
+          0.606
+        ],
+        "z_axis": [
+          0.822,
+          0.504,
+          -0.264
+        ],
+        "quaternion": [
+          0.496,
+          0.051,
+          0.793,
+          0.35
+        ]
+      }
+    },
+    {
+      "index": 31,
+      "index_chain": 7,
+      "chain_name": "R",
+      "nt_resnum": 6,
+      "nt_name": "A",
+      "nt_code": "A",
+      "nt_id": "R.A6",
+      "dbn": ".",
+      "summary": "anti,~C3'-endo,BI,non-pair-contact,hairpin-loop",
+      "alpha": -45.255,
+      "beta": 173.893,
+      "gamma": 34.628,
+      "delta": 83.929,
+      "epsilon": -156.668,
+      "zeta": -63.576,
+      "epsilon_zeta": -93.092,
+      "bb_type": "BI",
+      "chi": -154.578,
+      "glyco_bond": "anti",
+      "C5prime_xyz": [
+        -1.634,
+        8.794,
+        0.214
+      ],
+      "P_xyz": [
+        0.825,
+        9.577,
+        0.583
+      ],
+      "form": "A",
+      "ssZp": 4.364,
+      "Dp": 4.62,
+      "splay_angle": 18.556,
+      "splay_distance": 2.99,
+      "splay_ratio": 0.163,
+      "eta": 172.951,
+      "theta": -146.502,
+      "eta_prime": 177.181,
+      "theta_prime": -143.469,
+      "eta_base": -171.663,
+      "theta_base": -105.212,
+      "v0": 7.964,
+      "v1": -33.893,
+      "v2": 44.829,
+      "v3": -41.169,
+      "v4": 21.383,
+      "amplitude": 45.33,
+      "phase_angle": 8.53,
+      "puckering": "C3'-endo",
+      "sugar_class": "~C3'-endo",
+      "bin": "33p",
+      "cluster": "1a",
+      "suiteness": 0.274,
+      "filter_rmsd": 0.041,
+      "frame": {
+        "rmsd": 0.012,
+        "origin": [
+          38.481,
+          -27.976,
+          67.864
+        ],
+        "x_axis": [
+          -0.712,
+          0.513,
+          -0.481
+        ],
+        "y_axis": [
+          -0.07,
+          0.629,
+          0.775
+        ],
+        "z_axis": [
+          0.699,
+          0.585,
+          -0.411
+        ],
+        "quaternion": [
+          0.356,
+          0.133,
+          0.829,
+          0.41
+        ]
+      }
+    },
+    {
+      "index": 32,
+      "index_chain": 8,
+      "chain_name": "R",
+      "nt_resnum": 7,
+      "nt_name": "U",
+      "nt_code": "U",
+      "nt_id": "R.U7",
+      "dbn": ".",
+      "summary": "anti,~C3'-endo,BI,non-pair-contact,hairpin-loop",
+      "alpha": -77.584,
+      "beta": 168.506,
+      "gamma": 63.429,
+      "delta": 81.81,
+      "epsilon": -131.71,
+      "zeta": -81.996,
+      "epsilon_zeta": -49.714,
+      "bb_type": "BI",
+      "chi": -145.63,
+      "glyco_bond": "anti",
+      "C5prime_xyz": [
+        -1.601,
+        8.819,
+        -0.244
+      ],
+      "P_xyz": [
+        0.876,
+        9.319,
+        -0.77
+      ],
+      "form": ".",
+      "ssZp": 3.715,
+      "Dp": 4.609,
+      "splay_angle": 48.681,
+      "splay_distance": 7.874,
+      "splay_ratio": 0.412,
+      "eta": 171.733,
+      "theta": -145.218,
+      "eta_prime": -173.425,
+      "theta_prime": -130.845,
+      "eta_base": -124.645,
+      "theta_base": -116.523,
+      "v0": -0.35,
+      "v1": -23.365,
+      "v2": 36.931,
+      "v3": -38,
+      "v4": 23.928,
+      "amplitude": 39.035,
+      "phase_angle": 18.899,
+      "puckering": "C3'-endo",
+      "sugar_class": "~C3'-endo",
+      "bin": "33p",
+      "cluster": "1a",
+      "suiteness": 0.718,
+      "filter_rmsd": 0.099,
+      "frame": {
+        "rmsd": 0.01,
+        "origin": [
+          39.031,
+          -26.155,
+          65.557
+        ],
+        "x_axis": [
+          -0.629,
+          0.775,
+          0.056
+        ],
+        "y_axis": [
+          0.538,
+          0.383,
+          0.751
+        ],
+        "z_axis": [
+          0.561,
+          0.503,
+          -0.658
+        ],
+        "quaternion": [
+          0.155,
+          0.402,
+          0.817,
+          0.384
+        ]
+      }
+    },
+    {
+      "index": 33,
+      "index_chain": 9,
+      "chain_name": "R",
+      "nt_resnum": 8,
+      "nt_name": "U",
+      "nt_code": "U",
+      "nt_id": "R.U8",
+      "dbn": ".",
+      "summary": "turn,anti,~C2'-endo,non-pair-contact,hairpin-loop,cap-donor",
+      "alpha": -60.836,
+      "beta": -156.256,
+      "gamma": 55.978,
+      "delta": 143.676,
+      "epsilon": -81.581,
+      "zeta": 99.881,
+      "epsilon_zeta": 178.537,
+      "bb_type": "..",
+      "chi": -137.769,
+      "glyco_bond": "anti",
+      "C5prime_xyz": [
+        -2.058,
+        8.733,
+        -0.295
+      ],
+      "P_xyz": [
+        -0.307,
+        9.472,
+        1.447
+      ],
+      "form": ".",
+      "ssZp": 0.526,
+      "Dp": 0.532,
+      "splay_angle": 33.233,
+      "splay_distance": 5.526,
+      "splay_ratio": 0.302,
+      "eta": -148.031,
+      "theta": 115.53,
+      "eta_prime": -134.605,
+      "theta_prime": 91.464,
+      "eta_base": -127.954,
+      "theta_base": 68.592,
+      "v0": -22.846,
+      "v1": 35.392,
+      "v2": -34.008,
+      "v3": 21.449,
+      "v4": 0.664,
+      "amplitude": 36.12,
+      "phase_angle": 160.312,
+      "puckering": "C2'-endo",
+      "sugar_class": "~C2'-endo",
+      "bin": "32p",
+      "cluster": "1b",
+      "suiteness": 0.63,
+      "filter_rmsd": 0.1,
+      "frame": {
+        "rmsd": 0.018,
+        "origin": [
+          41.918,
+          -19.844,
+          61.837
+        ],
+        "x_axis": [
+          -0.853,
+          -0.078,
+          0.516
+        ],
+        "y_axis": [
+          0.492,
+          -0.451,
+          0.745
+        ],
+        "z_axis": [
+          0.174,
+          0.889,
+          0.423
+        ],
+        "quaternion": [
+          -0.173,
+          0.209,
+          0.495,
+          0.826
+        ]
+      }
+    },
+    {
+      "index": 34,
+      "index_chain": 10,
+      "chain_name": "R",
+      "nt_resnum": 9,
+      "nt_name": "G",
+      "nt_code": "G",
+      "nt_id": "R.G9",
+      "dbn": ".",
+      "summary": "anti,~C3'-endo,BI,non-pair-contact,hairpin-loop,cap-acceptor,splayed-apart",
+      "alpha": -129.573,
+      "beta": 145.709,
+      "gamma": 64.559,
+      "delta": 83.83,
+      "epsilon": -154.051,
+      "zeta": -72.755,
+      "epsilon_zeta": -81.297,
+      "bb_type": "BI",
+      "chi": -97.083,
+      "glyco_bond": "anti",
+      "C5prime_xyz": [
+        -2.261,
+        7.744,
+        -2.793
+      ],
+      "P_xyz": [
+        -0.6,
+        6.846,
+        -4.532
+      ],
+      "form": ".",
+      "ssZp": 0.806,
+      "Dp": 4.415,
+      "splay_angle": 99.289,
+      "splay_distance": 15.183,
+      "splay_ratio": 0.762,
+      "eta": 143.891,
+      "theta": -125.995,
+      "eta_prime": 147.437,
+      "theta_prime": -128.624,
+      "eta_base": 133.247,
+      "theta_base": -109.598,
+      "v0": -9.166,
+      "v1": -14.807,
+      "v2": 31.436,
+      "v3": -37.435,
+      "v4": 29.156,
+      "amplitude": 37.154,
+      "phase_angle": 32.21,
+      "puckering": "C3'-endo",
+      "sugar_class": "~C3'-endo",
+      "bin": "23p",
+      "cluster": "6g",
+      "suiteness": 0.116,
+      "filter_rmsd": 0.013,
+      "frame": {
+        "rmsd": 0.013,
+        "origin": [
+          43.54,
+          -24.94,
+          63.226
+        ],
+        "x_axis": [
+          -0.139,
+          0.621,
+          -0.772
+        ],
+        "y_axis": [
+          0.964,
+          -0.093,
+          -0.248
+        ],
+        "z_axis": [
+          -0.226,
+          -0.779,
+          -0.586
+        ],
+        "quaternion": [
+          0.214,
+          0.62,
+          0.639,
+          -0.402
+        ]
+      }
+    },
+    {
+      "index": 35,
+      "index_chain": 11,
+      "chain_name": "R",
+      "nt_resnum": 10,
+      "nt_name": "C",
+      "nt_code": "C",
+      "nt_id": "R.C10",
+      "dbn": ".",
+      "summary": "anti,~C2'-endo,non-stack,hairpin-loop,splayed-apart",
+      "alpha": 147.921,
+      "beta": 123.378,
+      "gamma": -60.016,
+      "delta": -179.022,
+      "epsilon": -111.012,
+      "zeta": 123.439,
+      "epsilon_zeta": 125.549,
+      "bb_type": "..",
+      "chi": -108.109,
+      "glyco_bond": "anti",
+      "C5prime_xyz": [
+        -1.339,
+        7.914,
+        -1.051
+      ],
+      "P_xyz": [
+        -0.29,
+        9.721,
+        0.585
+      ],
+      "form": ".",
+      "ssZp": 0.742,
+      "Dp": 0.721,
+      "splay_angle": 52.373,
+      "splay_distance": 8.463,
+      "splay_ratio": 0.443,
+      "eta": -115.745,
+      "theta": 134.658,
+      "eta_prime": -99.052,
+      "theta_prime": 125.067,
+      "eta_base": -117.474,
+      "theta_base": 150.479,
+      "v0": 4.358,
+      "v1": 26.897,
+      "v2": -44.905,
+      "v3": 49.263,
+      "v4": -34.008,
+      "amplitude": 49.049,
+      "phase_angle": 203.722,
+      "puckering": "C3'-exo",
+      "sugar_class": "~C2'-endo",
+      "bin": "trig",
+      "cluster": "!!",
+      "suiteness": 0,
+      "filter_rmsd": 0.071,
+      "frame": {
+        "rmsd": 0.013,
+        "origin": [
+          53.515,
+          -25.274,
+          51.785
+        ],
+        "x_axis": [
+          -0.154,
+          0.972,
+          0.176
+        ],
+        "y_axis": [
+          -0.092,
+          -0.192,
+          0.977
+        ],
+        "z_axis": [
+          0.984,
+          0.135,
+          0.119
+        ],
+        "quaternion": [
+          0.44,
+          0.479,
+          0.459,
+          0.605
+        ]
+      }
+    },
+    {
+      "index": 36,
+      "index_chain": 12,
+      "chain_name": "R",
+      "nt_resnum": 11,
+      "nt_name": "A",
+      "nt_code": "A",
+      "nt_id": "R.A11",
+      "dbn": ".",
+      "summary": "anti,~C3'-endo,BI,non-pair-contact,hairpin-loop",
+      "alpha": -94.781,
+      "beta": 170.503,
+      "gamma": 57.496,
+      "delta": 86.629,
+      "epsilon": -153.782,
+      "zeta": -85.26,
+      "epsilon_zeta": -68.522,
+      "bb_type": "BI",
+      "chi": -152.61,
+      "glyco_bond": "anti",
+      "C5prime_xyz": [
+        -1.388,
+        8.767,
+        -0.015
+      ],
+      "P_xyz": [
+        1.173,
+        9.057,
+        -0.215
+      ],
+      "form": ".",
+      "ssZp": 4.143,
+      "Dp": 4.486,
+      "splay_angle": 21.888,
+      "splay_distance": 4.004,
+      "splay_ratio": 0.244,
+      "eta": -174.651,
+      "theta": -154.94,
+      "eta_prime": -178.794,
+      "theta_prime": -155.133,
+      "eta_base": -165.455,
+      "theta_base": -86.661,
+      "v0": 0.193,
+      "v1": -25.218,
+      "v2": 38.325,
+      "v3": -38.853,
+      "v4": 24.671,
+      "amplitude": 40.276,
+      "phase_angle": 17.907,
+      "puckering": "C3'-endo",
+      "sugar_class": "~C3'-endo",
+      "bin": "trig",
+      "cluster": "!!",
+      "suiteness": 0,
+      "filter_rmsd": 0.04,
+      "frame": {
+        "rmsd": 0.015,
+        "origin": [
+          51.567,
+          -33.279,
+          49.849
+        ],
+        "x_axis": [
+          0.918,
+          0.342,
+          -0.199
+        ],
+        "y_axis": [
+          0.209,
+          0.009,
+          0.978
+        ],
+        "z_axis": [
+          0.336,
+          -0.94,
+          -0.063
+        ],
+        "quaternion": [
+          0.683,
+          0.702,
+          0.196,
+          0.049
+        ]
+      }
+    },
+    {
+      "index": 37,
+      "index_chain": 13,
+      "chain_name": "R",
+      "nt_resnum": 12,
+      "nt_name": "G",
+      "nt_code": "G",
+      "nt_id": "R.G12",
+      "dbn": ".",
+      "summary": "syn,~C2'-endo,non-pair-contact,hairpin-loop,phosphate",
+      "alpha": -57.007,
+      "beta": 158.143,
+      "gamma": 67.082,
+      "delta": 123.17,
+      "epsilon": -146.086,
+      "zeta": 115.295,
+      "epsilon_zeta": 98.619,
+      "bb_type": "..",
+      "chi": 40.822,
+      "glyco_bond": "syn",
+      "C5prime_xyz": [
+        -5.925,
+        4.804,
+        0.829
+      ],
+      "P_xyz": [
+        -6.493,
+        2.243,
+        0.756
+      ],
+      "form": ".",
+      "ssZp": -2.394,
+      "Dp": 2.486,
+      "splay_angle": 82.625,
+      "splay_distance": 12.847,
+      "splay_ratio": 0.661,
+      "eta": -175.746,
+      "theta": 87.549,
+      "eta_prime": -155.842,
+      "theta_prime": 83.665,
+      "eta_base": -83.185,
+      "theta_base": 81.341,
+      "v0": -43.559,
+      "v1": 40.831,
+      "v2": -22.878,
+      "v3": -2.235,
+      "v4": 29.058,
+      "amplitude": 44.003,
+      "phase_angle": 121.327,
+      "puckering": "C1'-exo",
+      "sugar_class": "~C2'-endo",
+      "bin": "32p",
+      "cluster": "1b",
+      "suiteness": 0.091,
+      "filter_rmsd": 0.023,
+      "frame": {
+        "rmsd": 0.023,
+        "origin": [
+          53.972,
+          -35.765,
+          51.867
+        ],
+        "x_axis": [
+          -0.022,
+          0.301,
+          -0.953
+        ],
+        "y_axis": [
+          -0.872,
+          -0.472,
+          -0.128
+        ],
+        "z_axis": [
+          -0.489,
+          0.828,
+          0.273
+        ],
+        "quaternion": [
+          0.441,
+          -0.542,
+          0.263,
+          0.665
+        ]
+      }
+    },
+    {
+      "index": 38,
+      "index_chain": 14,
+      "chain_name": "R",
+      "nt_resnum": 13,
+      "nt_name": "U",
+      "nt_code": "U",
+      "nt_id": "R.U13",
+      "dbn": ".",
+      "summary": "anti,~C2'-endo,non-stack,non-pair-contact,hairpin-loop,splayed-apart",
+      "alpha": -67.551,
+      "beta": 138.738,
+      "gamma": 49.562,
+      "delta": 133.242,
+      "epsilon": -102.198,
+      "zeta": -85.203,
+      "epsilon_zeta": -16.995,
+      "bb_type": "..",
+      "chi": -120.953,
+      "glyco_bond": "anti",
+      "C5prime_xyz": [
+        -2.555,
+        8.579,
+        -1.435
+      ],
+      "P_xyz": [
+        -0.156,
+        9.35,
+        -0.852
+      ],
+      "form": ".",
+      "ssZp": 0.607,
+      "Dp": 0.675,
+      "splay_angle": 109.028,
+      "splay_distance": 15.158,
+      "splay_ratio": 0.816,
+      "eta": -171.627,
+      "theta": -82.676,
+      "eta_prime": -153.981,
+      "theta_prime": -130.838,
+      "eta_base": -144.689,
+      "theta_base": 179.26,
+      "v0": -32.627,
+      "v1": 40.542,
+      "v2": -33.471,
+      "v3": 15.074,
+      "v4": 10.673,
+      "amplitude": 40.244,
+      "phase_angle": 146.275,
+      "puckering": "C2'-endo",
+      "sugar_class": "~C2'-endo",
+      "bin": "22p",
+      "cluster": "!!",
+      "suiteness": 0,
+      "filter_rmsd": 0.098,
+      "frame": {
+        "rmsd": 0.013,
+        "origin": [
+          41.708,
+          -36.326,
+          55.653
+        ],
+        "x_axis": [
+          0.239,
+          0.312,
+          -0.919
+        ],
+        "y_axis": [
+          0.615,
+          -0.781,
+          -0.105
+        ],
+        "z_axis": [
+          -0.751,
+          -0.541,
+          -0.379
+        ],
+        "quaternion": [
+          0.141,
+          0.774,
+          0.299,
+          -0.539
+        ]
+      }
+    },
+    {
+      "index": 39,
+      "index_chain": 15,
+      "chain_name": "R",
+      "nt_resnum": 14,
+      "nt_name": "A",
+      "nt_code": "A",
+      "nt_id": "R.A14",
+      "dbn": ".",
+      "summary": "turn,anti,~C3'-endo,non-pair-contact,hairpin-loop,splayed-apart",
+      "alpha": -115.721,
+      "beta": 146.907,
+      "gamma": -116.618,
+      "delta": 119.157,
+      "epsilon": -128.606,
+      "zeta": -42.717,
+      "epsilon_zeta": -85.889,
+      "bb_type": "..",
+      "chi": 176.359,
+      "glyco_bond": "anti",
+      "C5prime_xyz": [
+        -0.378,
+        6.797,
+        1.557
+      ],
+      "P_xyz": [
+        1.314,
+        7.751,
+        3.11
+      ],
+      "form": ".",
+      "ssZp": 4.86,
+      "Dp": 4.863,
+      "splay_angle": 28.22,
+      "splay_distance": 4.368,
+      "splay_ratio": 0.247,
+      "eta": -45.596,
+      "theta": -117.261,
+      "eta_prime": -16.368,
+      "theta_prime": -107.821,
+      "eta_base": 30.772,
+      "theta_base": -57.335,
+      "v0": 42.836,
+      "v1": -45.401,
+      "v2": 29.813,
+      "v3": -5.327,
+      "v4": -23.69,
+      "amplitude": 45.7,
+      "phase_angle": 310.72,
+      "puckering": "C1'-endo",
+      "sugar_class": "~C3'-endo",
+      "bin": "trig",
+      "cluster": "!!",
+      "suiteness": 0,
+      "filter_rmsd": 0.038,
+      "frame": {
+        "rmsd": 0.012,
+        "origin": [
+          39.738,
+          -46.132,
+          67.043
+        ],
+        "x_axis": [
+          0.888,
+          0.026,
+          0.459
+        ],
+        "y_axis": [
+          0.453,
+          -0.226,
+          -0.863
+        ],
+        "z_axis": [
+          0.081,
+          0.974,
+          -0.212
+        ],
+        "quaternion": [
+          0.602,
+          -0.763,
+          -0.157,
+          -0.177
+        ]
+      }
+    },
+    {
+      "index": 40,
+      "index_chain": 16,
+      "chain_name": "R",
+      "nt_resnum": 15,
+      "nt_name": "C",
+      "nt_code": "C",
+      "nt_id": "R.C15",
+      "dbn": ".",
+      "summary": "anti,~C3'-endo,BI,non-pair-contact,hairpin-loop,phosphate",
+      "alpha": -75.83,
+      "beta": 176.429,
+      "gamma": 46.311,
+      "delta": 76.071,
+      "epsilon": -158.143,
+      "zeta": -63.629,
+      "epsilon_zeta": -94.513,
+      "bb_type": "BI",
+      "chi": -157.179,
+      "glyco_bond": "anti",
+      "C5prime_xyz": [
+        -1.096,
+        8.777,
+        0.383
+      ],
+      "P_xyz": [
+        1.479,
+        9.066,
+        0.67
+      ],
+      "form": "A",
+      "ssZp": 4.411,
+      "Dp": 4.764,
+      "splay_angle": 19.634,
+      "splay_distance": 3.142,
+      "splay_ratio": 0.171,
+      "eta": 153.214,
+      "theta": -146.976,
+      "eta_prime": -173.716,
+      "theta_prime": -134.978,
+      "eta_base": -102.942,
+      "theta_base": -107.813,
+      "v0": 1.947,
+      "v1": -29.824,
+      "v2": 43.644,
+      "v3": -43.791,
+      "v4": 26.585,
+      "amplitude": 45.411,
+      "phase_angle": 16.035,
+      "puckering": "C3'-endo",
+      "sugar_class": "~C3'-endo",
+      "bin": "trig",
+      "cluster": "!!",
+      "suiteness": 0,
+      "filter_rmsd": 0.068,
+      "frame": {
+        "rmsd": 0.01,
+        "origin": [
+          43.035,
+          -43.4,
+          67.91
+        ],
+        "x_axis": [
+          0.852,
+          -0.191,
+          -0.487
+        ],
+        "y_axis": [
+          -0.493,
+          0.019,
+          -0.87
+        ],
+        "z_axis": [
+          0.175,
+          0.981,
+          -0.078
+        ],
+        "quaternion": [
+          0.669,
+          -0.691,
+          0.247,
+          0.113
+        ]
+      }
+    },
+    {
+      "index": 41,
+      "index_chain": 17,
+      "chain_name": "R",
+      "nt_resnum": 16,
+      "nt_name": "C",
+      "nt_code": "C",
+      "nt_id": "R.C16",
+      "dbn": ".",
+      "summary": "anti,~C2'-endo,non-pair-contact,hairpin-loop,splayed-apart",
+      "alpha": -56.354,
+      "beta": 166.174,
+      "gamma": 58.093,
+      "delta": 150.006,
+      "epsilon": -125.676,
+      "zeta": -159.829,
+      "epsilon_zeta": 34.153,
+      "bb_type": "..",
+      "chi": -120.731,
+      "glyco_bond": "anti",
+      "C5prime_xyz": [
+        -2.065,
+        8.641,
+        -1.035
+      ],
+      "P_xyz": [
+        0.431,
+        9.159,
+        -0.598
+      ],
+      "form": ".",
+      "ssZp": 1.695,
+      "Dp": 1.677,
+      "splay_angle": 133.917,
+      "splay_distance": 17.616,
+      "splay_ratio": 0.92,
+      "eta": -173.993,
+      "theta": -126.398,
+      "eta_prime": -135.474,
+      "theta_prime": -156.33,
+      "eta_base": -105.149,
+      "theta_base": -161.126,
+      "v0": -22.681,
+      "v1": 37.278,
+      "v2": -37.776,
+      "v3": 25.724,
+      "v4": -2.073,
+      "amplitude": 39.194,
+      "phase_angle": 164.537,
+      "puckering": "C2'-endo",
+      "sugar_class": "~C2'-endo",
+      "bin": "32p",
+      "cluster": "1b",
+      "suiteness": 0.706,
+      "filter_rmsd": 0.063,
+      "frame": {
+        "rmsd": 0.008,
+        "origin": [
+          44.888,
+          -40.9,
+          67.477
+        ],
+        "x_axis": [
+          0.44,
+          -0.38,
+          -0.813
+        ],
+        "y_axis": [
+          -0.751,
+          0.34,
+          -0.566
+        ],
+        "z_axis": [
+          0.492,
+          0.86,
+          -0.136
+        ],
+        "quaternion": [
+          0.641,
+          -0.556,
+          0.509,
+          0.145
+        ]
+      }
+    },
+    {
+      "index": 42,
+      "index_chain": 18,
+      "chain_name": "R",
+      "nt_resnum": 17,
+      "nt_name": "U",
+      "nt_code": "U",
+      "nt_id": "R.U17",
+      "dbn": ".",
+      "summary": "anti,~C3'-endo,BI,non-canonical,non-pair-contact,helix-end,hairpin-loop,phosphate,splayed-apart",
+      "alpha": 58.006,
+      "beta": 163.113,
+      "gamma": 35.956,
+      "delta": 92.068,
+      "epsilon": -140.765,
+      "zeta": -68.127,
+      "epsilon_zeta": -72.638,
+      "bb_type": "BI",
+      "chi": -161.911,
+      "glyco_bond": "anti",
+      "C5prime_xyz": [
+        -1.483,
+        8.661,
+        0.652
+      ],
+      "P_xyz": [
+        1.026,
+        9.124,
+        1.191
+      ],
+      "form": ".",
+      "ssZp": 4.323,
+      "Dp": 4.482,
+      "splay_angle": 24.551,
+      "splay_distance": 3.93,
+      "splay_ratio": 0.213,
+      "eta": -73.953,
+      "theta": -134.057,
+      "eta_prime": -67.639,
+      "theta_prime": -134.945,
+      "eta_base": -51.879,
+      "theta_base": -92.751,
+      "v0": 6.822,
+      "v1": -25.311,
+      "v2": 33.355,
+      "v3": -29.632,
+      "v4": 14.653,
+      "amplitude": 33.588,
+      "phase_angle": 6.751,
+      "puckering": "C3'-endo",
+      "sugar_class": "~C3'-endo",
+      "bin": "23p",
+      "cluster": "4d",
+      "suiteness": 0.055,
+      "filter_rmsd": 0.107,
+      "frame": {
+        "rmsd": 0.013,
+        "origin": [
+          35.37,
+          -26.924,
+          72.417
+        ],
+        "x_axis": [
+          -0.699,
+          0.135,
+          -0.702
+        ],
+        "y_axis": [
+          0.37,
+          -0.772,
+          -0.516
+        ],
+        "z_axis": [
+          -0.612,
+          -0.621,
+          0.49
+        ],
+        "quaternion": [
+          -0.068,
+          -0.382,
+          -0.33,
+          0.86
+        ]
+      }
+    },
+    {
+      "index": 43,
+      "index_chain": 19,
+      "chain_name": "R",
+      "nt_resnum": 18,
+      "nt_name": "C",
+      "nt_code": "C",
+      "nt_id": "R.C18",
+      "dbn": ")",
+      "summary": "anti,~C3'-endo,BI,canonical,non-pair-contact,helix,stem-end,hairpin-loop",
+      "alpha": -65.445,
+      "beta": 165.846,
+      "gamma": 49.568,
+      "delta": 80.589,
+      "epsilon": -167.46,
+      "zeta": -56.888,
+      "epsilon_zeta": -110.572,
+      "bb_type": "BI",
+      "chi": -164.947,
+      "glyco_bond": "anti",
+      "C5prime_xyz": [
+        -1.229,
+        8.629,
+        0.853
+      ],
+      "P_xyz": [
+        1.279,
+        9.172,
+        0.858
+      ],
+      "form": "A",
+      "ssZp": 4.55,
+      "Dp": 4.617,
+      "splay_angle": 21.29,
+      "splay_distance": 3.455,
+      "splay_ratio": 0.19,
+      "eta": 158.921,
+      "theta": -148.929,
+      "eta_prime": -179.518,
+      "theta_prime": -149.508,
+      "eta_base": -115.139,
+      "theta_base": -133.753,
+      "v0": 9.398,
+      "v1": -33.693,
+      "v2": 43.46,
+      "v3": -39.102,
+      "v4": 18.985,
+      "amplitude": 43.732,
+      "phase_angle": 6.397,
+      "puckering": "C3'-endo",
+      "sugar_class": "~C3'-endo",
+      "bin": "33p",
+      "cluster": "1a",
+      "suiteness": 0.672,
+      "filter_rmsd": 0.071,
+      "frame": {
+        "rmsd": 0.014,
+        "origin": [
+          31.854,
+          -28.63,
+          72.831
+        ],
+        "x_axis": [
+          -0.22,
+          -0.418,
+          -0.881
+        ],
+        "y_axis": [
+          0.745,
+          -0.655,
+          0.124
+        ],
+        "z_axis": [
+          -0.629,
+          -0.63,
+          0.456
+        ],
+        "quaternion": [
+          -0.381,
+          -0.495,
+          -0.166,
+          0.763
+        ]
+      }
+    },
+    {
+      "index": 44,
+      "index_chain": 20,
+      "chain_name": "R",
+      "nt_resnum": 19,
+      "nt_name": "C",
+      "nt_code": "C",
+      "nt_id": "R.C19",
+      "dbn": ")",
+      "summary": "anti,~C3'-endo,BI,canonical,non-pair-contact,helix,stem",
+      "alpha": -78.486,
+      "beta": -170.885,
+      "gamma": 46.374,
+      "delta": 77.899,
+      "epsilon": -169.237,
+      "zeta": -59.435,
+      "epsilon_zeta": -109.802,
+      "bb_type": "BI",
+      "chi": -157.951,
+      "glyco_bond": "anti",
+      "C5prime_xyz": [
+        -1.456,
+        8.851,
+        0.301
+      ],
+      "P_xyz": [
+        1.059,
+        9.414,
+        0.694
+      ],
+      "form": "A",
+      "ssZp": 4.43,
+      "Dp": 4.62,
+      "splay_angle": 20.542,
+      "splay_distance": 3.248,
+      "splay_ratio": 0.181,
+      "eta": 162.893,
+      "theta": -151.043,
+      "eta_prime": 175.279,
+      "theta_prime": -147.745,
+      "eta_base": -153.414,
+      "theta_base": -122.241,
+      "v0": 0.778,
+      "v1": -30.439,
+      "v2": 46.305,
+      "v3": -46.973,
+      "v4": 29.532,
+      "amplitude": 48.587,
+      "phase_angle": 17.629,
+      "puckering": "C3'-endo",
+      "sugar_class": "~C3'-endo",
+      "bin": "33p",
+      "cluster": "1a",
+      "suiteness": 0.575,
+      "filter_rmsd": 0.07,
+      "frame": {
+        "rmsd": 0.012,
+        "origin": [
+          28.53,
+          -29.193,
+          73.587
+        ],
+        "x_axis": [
+          0.204,
+          -0.629,
+          -0.75
+        ],
+        "y_axis": [
+          0.68,
+          -0.46,
+          0.571
+        ],
+        "z_axis": [
+          -0.704,
+          -0.626,
+          0.334
+        ],
+        "quaternion": [
+          0.519,
+          0.577,
+          0.022,
+          -0.631
+        ]
+      }
+    },
+    {
+      "index": 45,
+      "index_chain": 21,
+      "chain_name": "R",
+      "nt_resnum": 20,
+      "nt_name": "A",
+      "nt_code": "A",
+      "nt_id": "R.A20",
+      "dbn": ")",
+      "summary": "anti,~C3'-endo,BI,canonical,non-pair-contact,helix,stem",
+      "alpha": -100.408,
+      "beta": -170.256,
+      "gamma": 72.58,
+      "delta": 92.017,
+      "epsilon": -147.538,
+      "zeta": -81.705,
+      "epsilon_zeta": -65.833,
+      "bb_type": "BI",
+      "chi": -157.468,
+      "glyco_bond": "anti",
+      "C5prime_xyz": [
+        -1.539,
+        8.735,
+        0.34
+      ],
+      "P_xyz": [
+        1.023,
+        9.195,
+        0.255
+      ],
+      "form": "A",
+      "ssZp": 4.305,
+      "Dp": 4.525,
+      "splay_angle": 22.151,
+      "splay_distance": 3.734,
+      "splay_ratio": 0.199,
+      "eta": 165.071,
+      "theta": -141.854,
+      "eta_prime": 178.156,
+      "theta_prime": -146.103,
+      "eta_base": -144.66,
+      "theta_base": -130.478,
+      "v0": 1.411,
+      "v1": -24.269,
+      "v2": 37.316,
+      "v3": -37.061,
+      "v4": 22.599,
+      "amplitude": 38.916,
+      "phase_angle": 16.482,
+      "puckering": "C3'-endo",
+      "sugar_class": "~C3'-endo",
+      "bin": "33p",
+      "cluster": "1a",
+      "suiteness": 0.045,
+      "filter_rmsd": 0.039,
+      "frame": {
+        "rmsd": 0.012,
+        "origin": [
+          25.896,
+          -30.978,
+          72.937
+        ],
+        "x_axis": [
+          0.689,
+          -0.604,
+          -0.4
+        ],
+        "y_axis": [
+          0.353,
+          -0.202,
+          0.913
+        ],
+        "z_axis": [
+          -0.632,
+          -0.771,
+          0.074
+        ],
+        "quaternion": [
+          0.625,
+          0.674,
+          -0.093,
+          -0.383
+        ]
+      }
+    },
+    {
+      "index": 46,
+      "index_chain": 22,
+      "chain_name": "R",
+      "nt_resnum": 21,
+      "nt_name": "G",
+      "nt_code": "G",
+      "nt_id": "R.G21",
+      "dbn": ")",
+      "summary": "anti,~C3'-endo,BI,canonical,non-pair-contact,helix,stem",
+      "alpha": -62.246,
+      "beta": 163.195,
+      "gamma": 58.106,
+      "delta": 77.167,
+      "epsilon": -147.289,
+      "zeta": -75.108,
+      "epsilon_zeta": -72.181,
+      "bb_type": "BI",
+      "chi": -168.866,
+      "glyco_bond": "anti",
+      "C5prime_xyz": [
+        -2.052,
+        8.873,
+        0.827
+      ],
+      "P_xyz": [
+        0.375,
+        9.851,
+        0.612
+      ],
+      "form": "A",
+      "ssZp": 4.632,
+      "Dp": 4.713,
+      "splay_angle": 25.552,
+      "splay_distance": 4.117,
+      "splay_ratio": 0.228,
+      "eta": 160.897,
+      "theta": -150.213,
+      "eta_prime": 175.221,
+      "theta_prime": -150.305,
+      "eta_base": -150.141,
+      "theta_base": -117.775,
+      "v0": -2.504,
+      "v1": -29.056,
+      "v2": 47.656,
+      "v3": -49.333,
+      "v4": 33.416,
+      "amplitude": 51.034,
+      "phase_angle": 20.965,
+      "puckering": "C3'-endo",
+      "sugar_class": "~C3'-endo",
+      "bin": "33p",
+      "cluster": "1a",
+      "suiteness": 0.64,
+      "filter_rmsd": 0.017,
+      "frame": {
+        "rmsd": 0.017,
+        "origin": [
+          23.769,
+          -33.458,
+          71.129
+        ],
+        "x_axis": [
+          0.833,
+          -0.553,
+          0.013
+        ],
+        "y_axis": [
+          -0.004,
+          0.019,
+          1
+        ],
+        "z_axis": [
+          -0.553,
+          -0.833,
+          0.014
+        ],
+        "quaternion": [
+          0.683,
+          0.671,
+          -0.207,
+          -0.201
+        ]
+      }
+    },
+    {
+      "index": 47,
+      "index_chain": 23,
+      "chain_name": "R",
+      "nt_resnum": 22,
+      "nt_name": "G",
+      "nt_code": "G",
+      "nt_id": "R.G22",
+      "dbn": ")",
+      "summary": "anti,~C3'-endo,BI,canonical,non-pair-contact,helix-end,stem-end",
+      "alpha": -58.168,
+      "beta": 165.056,
+      "gamma": 64.988,
+      "delta": 79.182,
+      "epsilon": -134.704,
+      "zeta": -101.632,
+      "epsilon_zeta": -33.072,
+      "bb_type": "BI",
+      "chi": -171.142,
+      "glyco_bond": "anti",
+      "C5prime_xyz": [
+        -1.604,
+        8.753,
+        1.053
+      ],
+      "P_xyz": [
+        0.886,
+        9.418,
+        1.269
+      ],
+      "form": "A",
+      "ssZp": 4.403,
+      "Dp": 4.497,
+      "splay_angle": 19.258,
+      "splay_distance": 3.378,
+      "splay_ratio": 0.178,
+      "eta": 178.66,
+      "theta": -139.96,
+      "eta_prime": -168.891,
+      "theta_prime": -145.694,
+      "eta_base": -122.629,
+      "theta_base": -131.14,
+      "v0": -8.756,
+      "v1": -18.305,
+      "v2": 37.449,
+      "v3": -43.914,
+      "v4": 32.141,
+      "amplitude": 43.236,
+      "phase_angle": 29.986,
+      "puckering": "C3'-endo",
+      "sugar_class": "~C3'-endo",
+      "bin": "33p",
+      "cluster": "1a",
+      "suiteness": 0.723,
+      "filter_rmsd": 0.014,
+      "frame": {
+        "rmsd": 0.014,
+        "origin": [
+          23.663,
+          -37.316,
+          69.695
+        ],
+        "x_axis": [
+          0.716,
+          -0.342,
+          0.609
+        ],
+        "y_axis": [
+          -0.516,
+          0.329,
+          0.791
+        ],
+        "z_axis": [
+          -0.471,
+          -0.88,
+          0.059
+        ],
+        "quaternion": [
+          0.725,
+          0.576,
+          -0.372,
+          0.06
+        ]
+      }
+    },
+    {
+      "index": 48,
+      "index_chain": 24,
+      "chain_name": "R",
+      "nt_resnum": 23,
+      "nt_name": "U",
+      "nt_code": "U",
+      "nt_id": "R.U23",
+      "dbn": ".",
+      "summary": "anti,non-pair-contact,ss-non-loop",
+      "alpha": 81.405,
+      "beta": -159.773,
+      "gamma": -103.379,
+      "delta": 125.374,
+      "epsilon": null,
+      "zeta": null,
+      "epsilon_zeta": null,
+      "bb_type": "n/a",
+      "chi": -147.512,
+      "glyco_bond": "anti",
+      "C5prime_xyz": [
+        -0.633,
+        7.955,
+        0.127
+      ],
+      "P_xyz": [
+        0.761,
+        10.027,
+        -0.395
+      ],
+      "form": "-",
+      "ssZp": null,
+      "Dp": null,
+      "splay_angle": null,
+      "splay_distance": null,
+      "splay_ratio": null,
+      "eta": null,
+      "theta": null,
+      "eta_prime": null,
+      "theta_prime": null,
+      "eta_base": null,
+      "theta_base": null,
+      "v0": 27.414,
+      "v1": -26.92,
+      "v2": 16.544,
+      "v3": -1.11,
+      "v4": -16.62,
+      "amplitude": 28.084,
+      "phase_angle": 306.093,
+      "puckering": "C1'-endo",
+      "sugar_class": "....",
+      "bin": "trig",
+      "cluster": "!!",
+      "suiteness": 0,
+      "filter_rmsd": 0.081,
+      "frame": {
+        "rmsd": 0.04,
+        "origin": [
+          23.907,
+          -40.411,
+          68.362
+        ],
+        "x_axis": [
+          0.413,
+          -0.166,
+          0.895
+        ],
+        "y_axis": [
+          -0.865,
+          0.237,
+          0.443
+        ],
+        "z_axis": [
+          -0.285,
+          -0.957,
+          -0.045
+        ],
+        "quaternion": [
+          0.633,
+          0.553,
+          -0.466,
+          0.276
+        ]
+      }
+    }
+  ],
+  "num_hbonds": 44,
+  "hbonds": [
+    {
+      "index": 1,
+      "atom1_serNum": 12,
+      "atom2_serNum": 481,
+      "donAcc_type": "standard",
+      "distance": 2.456,
+      "atom1_id": "O2@Q.C0",
+      "atom2_id": "N2@Q.G22",
+      "atom_pair": "O:N",
+      "residue_pair": "nt:nt"
+    },
+    {
+      "index": 2,
+      "atom1_serNum": 13,
+      "atom2_serNum": 479,
+      "donAcc_type": "standard",
+      "distance": 2.747,
+      "atom1_id": "N3@Q.C0",
+      "atom2_id": "N1@Q.G22",
+      "atom_pair": "N:N",
+      "residue_pair": "nt:nt"
+    },
+    {
+      "index": 3,
+      "atom1_serNum": 15,
+      "atom2_serNum": 478,
+      "donAcc_type": "standard",
+      "distance": 3.022,
+      "atom1_id": "N4@Q.C0",
+      "atom2_id": "O6@Q.G22",
+      "atom_pair": "N:O",
+      "residue_pair": "nt:nt"
+    },
+    {
+      "index": 4,
+      "atom1_serNum": 28,
+      "atom2_serNum": 41,
+      "donAcc_type": "acceptable",
+      "distance": 3.039,
+      "atom1_id": "O2'@Q.C1",
+      "atom2_id": "O5'@Q.U2",
+      "atom_pair": "O:O",
+      "residue_pair": "nt:nt"
+    },
+    {
+      "index": 5,
+      "atom1_serNum": 32,
+      "atom2_serNum": 458,
+      "donAcc_type": "standard",
+      "distance": 2.84,
+      "atom1_id": "O2@Q.C1",
+      "atom2_id": "N2@Q.G21",
+      "atom_pair": "O:N",
+      "residue_pair": "nt:nt"
+    },
+    {
+      "index": 6,
+      "atom1_serNum": 33,
+      "atom2_serNum": 456,
+      "donAcc_type": "standard",
+      "distance": 2.824,
+      "atom1_id": "N3@Q.C1",
+      "atom2_id": "N1@Q.G21",
+      "atom_pair": "N:N",
+      "residue_pair": "nt:nt"
+    },
+    {
+      "index": 7,
+      "atom1_serNum": 35,
+      "atom2_serNum": 455,
+      "donAcc_type": "standard",
+      "distance": 2.793,
+      "atom1_id": "N4@Q.C1",
+      "atom2_id": "O6@Q.G21",
+      "atom_pair": "N:O",
+      "residue_pair": "nt:nt"
+    },
+    {
+      "index": 8,
+      "atom1_serNum": 53,
+      "atom2_serNum": 434,
+      "donAcc_type": "standard",
+      "distance": 2.879,
+      "atom1_id": "N3@Q.U2",
+      "atom2_id": "N1@Q.A20",
+      "atom_pair": "N:N",
+      "residue_pair": "nt:nt"
+    },
+    {
+      "index": 9,
+      "atom1_serNum": 55,
+      "atom2_serNum": 433,
+      "donAcc_type": "standard",
+      "distance": 3.297,
+      "atom1_id": "O4@Q.U2",
+      "atom2_id": "N6@Q.A20",
+      "atom_pair": "O:N",
+      "residue_pair": "nt:nt"
+    },
+    {
+      "index": 10,
+      "atom1_serNum": 75,
+      "atom2_serNum": 413,
+      "donAcc_type": "standard",
+      "distance": 3.042,
+      "atom1_id": "O6@Q.G3",
+      "atom2_id": "N4@Q.C19",
+      "atom_pair": "O:N",
+      "residue_pair": "nt:nt"
+    },
+    {
+      "index": 11,
+      "atom1_serNum": 76,
+      "atom2_serNum": 411,
+      "donAcc_type": "standard",
+      "distance": 2.759,
+      "atom1_id": "N1@Q.G3",
+      "atom2_id": "N3@Q.C19",
+      "atom_pair": "N:N",
+      "residue_pair": "nt:nt"
+    },
+    {
+      "index": 12,
+      "atom1_serNum": 78,
+      "atom2_serNum": 410,
+      "donAcc_type": "standard",
+      "distance": 2.56,
+      "atom1_id": "N2@Q.G3",
+      "atom2_id": "O2@Q.C19",
+      "atom_pair": "N:O",
+      "residue_pair": "nt:nt"
+    },
+    {
+      "index": 13,
+      "atom1_serNum": 98,
+      "atom2_serNum": 393,
+      "donAcc_type": "standard",
+      "distance": 2.95,
+      "atom1_id": "O6@Q.G4",
+      "atom2_id": "N4@Q.C18",
+      "atom_pair": "O:N",
+      "residue_pair": "nt:nt"
+    },
+    {
+      "index": 14,
+      "atom1_serNum": 99,
+      "atom2_serNum": 391,
+      "donAcc_type": "standard",
+      "distance": 2.853,
+      "atom1_id": "N1@Q.G4",
+      "atom2_id": "N3@Q.C18",
+      "atom_pair": "N:N",
+      "residue_pair": "nt:nt"
+    },
+    {
+      "index": 15,
+      "atom1_serNum": 101,
+      "atom2_serNum": 390,
+      "donAcc_type": "standard",
+      "distance": 2.688,
+      "atom1_id": "N2@Q.G4",
+      "atom2_id": "O2@Q.C18",
+      "atom_pair": "N:O",
+      "residue_pair": "nt:nt"
+    },
+    {
+      "index": 16,
+      "atom1_serNum": 114,
+      "atom2_serNum": 130,
+      "donAcc_type": "acceptable",
+      "distance": 3.273,
+      "atom1_id": "O2'@Q.U5",
+      "atom2_id": "O4'@Q.A6",
+      "atom_pair": "O:O",
+      "residue_pair": "nt:nt"
+    },
+    {
+      "index": 17,
+      "atom1_serNum": 118,
+      "atom2_serNum": 371,
+      "donAcc_type": "standard",
+      "distance": 2.995,
+      "atom1_id": "O2@Q.U5",
+      "atom2_id": "N3@Q.U17",
+      "atom_pair": "O:N",
+      "residue_pair": "nt:nt"
+    },
+    {
+      "index": 18,
+      "atom1_serNum": 119,
+      "atom2_serNum": 373,
+      "donAcc_type": "standard",
+      "distance": 2.938,
+      "atom1_id": "N3@Q.U5",
+      "atom2_id": "O4@Q.U17",
+      "atom_pair": "N:O",
+      "residue_pair": "nt:nt"
+    },
+    {
+      "index": 19,
+      "atom1_serNum": 160,
+      "atom2_serNum": 206,
+      "donAcc_type": "standard",
+      "distance": 3.005,
+      "atom1_id": "O2@Q.U7",
+      "atom2_id": "N2@Q.G9",
+      "atom_pair": "O:N",
+      "residue_pair": "nt:nt"
+    },
+    {
+      "index": 20,
+      "atom1_serNum": 253,
+      "atom2_serNum": 271,
+      "donAcc_type": "standard",
+      "distance": 3.01,
+      "atom1_id": "OP2@Q.G12",
+      "atom2_id": "N2@Q.G12",
+      "atom_pair": "O:N",
+      "residue_pair": "nt:nt"
+    },
+    {
+      "index": 21,
+      "atom1_serNum": 284,
+      "atom2_serNum": 318,
+      "donAcc_type": "acceptable",
+      "distance": 2.862,
+      "atom1_id": "O2'@Q.U13",
+      "atom2_id": "OP2@Q.C15",
+      "atom_pair": "O:O",
+      "residue_pair": "nt:nt"
+    },
+    {
+      "index": 22,
+      "atom1_serNum": 295,
+      "atom2_serNum": 333,
+      "donAcc_type": "standard",
+      "distance": 3.692,
+      "atom1_id": "OP1@Q.A14",
+      "atom2_id": "N4@Q.C15",
+      "atom_pair": "O:N",
+      "residue_pair": "nt:nt"
+    },
+    {
+      "index": 23,
+      "atom1_serNum": 346,
+      "atom2_serNum": 358,
+      "donAcc_type": "acceptable",
+      "distance": 3.237,
+      "atom1_id": "O2'@Q.C16",
+      "atom2_id": "OP2@Q.U17",
+      "atom_pair": "O:O",
+      "residue_pair": "nt:nt"
+    },
+    {
+      "index": 24,
+      "atom1_serNum": 516,
+      "atom2_serNum": 985,
+      "donAcc_type": "standard",
+      "distance": 2.641,
+      "atom1_id": "O2@R.C0",
+      "atom2_id": "N2@R.G22",
+      "atom_pair": "O:N",
+      "residue_pair": "nt:nt"
+    },
+    {
+      "index": 25,
+      "atom1_serNum": 517,
+      "atom2_serNum": 983,
+      "donAcc_type": "standard",
+      "distance": 2.58,
+      "atom1_id": "N3@R.C0",
+      "atom2_id": "N1@R.G22",
+      "atom_pair": "N:N",
+      "residue_pair": "nt:nt"
+    },
+    {
+      "index": 26,
+      "atom1_serNum": 519,
+      "atom2_serNum": 982,
+      "donAcc_type": "standard",
+      "distance": 2.735,
+      "atom1_id": "N4@R.C0",
+      "atom2_id": "O6@R.G22",
+      "atom_pair": "N:O",
+      "residue_pair": "nt:nt"
+    },
+    {
+      "index": 27,
+      "atom1_serNum": 536,
+      "atom2_serNum": 962,
+      "donAcc_type": "standard",
+      "distance": 2.892,
+      "atom1_id": "O2@R.C1",
+      "atom2_id": "N2@R.G21",
+      "atom_pair": "O:N",
+      "residue_pair": "nt:nt"
+    },
+    {
+      "index": 28,
+      "atom1_serNum": 537,
+      "atom2_serNum": 960,
+      "donAcc_type": "standard",
+      "distance": 2.75,
+      "atom1_id": "N3@R.C1",
+      "atom2_id": "N1@R.G21",
+      "atom_pair": "N:N",
+      "residue_pair": "nt:nt"
+    },
+    {
+      "index": 29,
+      "atom1_serNum": 539,
+      "atom2_serNum": 959,
+      "donAcc_type": "standard",
+      "distance": 2.733,
+      "atom1_id": "N4@R.C1",
+      "atom2_id": "O6@R.G21",
+      "atom_pair": "N:O",
+      "residue_pair": "nt:nt"
+    },
+    {
+      "index": 30,
+      "atom1_serNum": 557,
+      "atom2_serNum": 938,
+      "donAcc_type": "standard",
+      "distance": 2.866,
+      "atom1_id": "N3@R.U2",
+      "atom2_id": "N1@R.A20",
+      "atom_pair": "N:N",
+      "residue_pair": "nt:nt"
+    },
+    {
+      "index": 31,
+      "atom1_serNum": 559,
+      "atom2_serNum": 937,
+      "donAcc_type": "standard",
+      "distance": 3.103,
+      "atom1_id": "O4@R.U2",
+      "atom2_id": "N6@R.A20",
+      "atom_pair": "O:N",
+      "residue_pair": "nt:nt"
+    },
+    {
+      "index": 32,
+      "atom1_serNum": 579,
+      "atom2_serNum": 917,
+      "donAcc_type": "standard",
+      "distance": 2.637,
+      "atom1_id": "O6@R.G3",
+      "atom2_id": "N4@R.C19",
+      "atom_pair": "O:N",
+      "residue_pair": "nt:nt"
+    },
+    {
+      "index": 33,
+      "atom1_serNum": 580,
+      "atom2_serNum": 915,
+      "donAcc_type": "standard",
+      "distance": 2.681,
+      "atom1_id": "N1@R.G3",
+      "atom2_id": "N3@R.C19",
+      "atom_pair": "N:N",
+      "residue_pair": "nt:nt"
+    },
+    {
+      "index": 34,
+      "atom1_serNum": 582,
+      "atom2_serNum": 914,
+      "donAcc_type": "standard",
+      "distance": 2.654,
+      "atom1_id": "N2@R.G3",
+      "atom2_id": "O2@R.C19",
+      "atom_pair": "N:O",
+      "residue_pair": "nt:nt"
+    },
+    {
+      "index": 35,
+      "atom1_serNum": 602,
+      "atom2_serNum": 897,
+      "donAcc_type": "standard",
+      "distance": 3.012,
+      "atom1_id": "O6@R.G4",
+      "atom2_id": "N4@R.C18",
+      "atom_pair": "O:N",
+      "residue_pair": "nt:nt"
+    },
+    {
+      "index": 36,
+      "atom1_serNum": 603,
+      "atom2_serNum": 895,
+      "donAcc_type": "standard",
+      "distance": 2.945,
+      "atom1_id": "N1@R.G4",
+      "atom2_id": "N3@R.C18",
+      "atom_pair": "N:N",
+      "residue_pair": "nt:nt"
+    },
+    {
+      "index": 37,
+      "atom1_serNum": 605,
+      "atom2_serNum": 894,
+      "donAcc_type": "standard",
+      "distance": 2.715,
+      "atom1_id": "N2@R.G4",
+      "atom2_id": "O2@R.C18",
+      "atom_pair": "N:O",
+      "residue_pair": "nt:nt"
+    },
+    {
+      "index": 38,
+      "atom1_serNum": 622,
+      "atom2_serNum": 875,
+      "donAcc_type": "standard",
+      "distance": 3.112,
+      "atom1_id": "O2@R.U5",
+      "atom2_id": "N3@R.U17",
+      "atom_pair": "O:N",
+      "residue_pair": "nt:nt"
+    },
+    {
+      "index": 39,
+      "atom1_serNum": 623,
+      "atom2_serNum": 877,
+      "donAcc_type": "standard",
+      "distance": 2.848,
+      "atom1_id": "N3@R.U5",
+      "atom2_id": "O4@R.U17",
+      "atom_pair": "N:O",
+      "residue_pair": "nt:nt"
+    },
+    {
+      "index": 40,
+      "atom1_serNum": 664,
+      "atom2_serNum": 710,
+      "donAcc_type": "standard",
+      "distance": 2.783,
+      "atom1_id": "O2@R.U7",
+      "atom2_id": "N2@R.G9",
+      "atom_pair": "O:N",
+      "residue_pair": "nt:nt"
+    },
+    {
+      "index": 41,
+      "atom1_serNum": 757,
+      "atom2_serNum": 775,
+      "donAcc_type": "standard",
+      "distance": 3.339,
+      "atom1_id": "OP2@R.G12",
+      "atom2_id": "N2@R.G12",
+      "atom_pair": "O:N",
+      "residue_pair": "nt:nt"
+    },
+    {
+      "index": 42,
+      "atom1_serNum": 788,
+      "atom2_serNum": 822,
+      "donAcc_type": "acceptable",
+      "distance": 2.534,
+      "atom1_id": "O2'@R.U13",
+      "atom2_id": "OP2@R.C15",
+      "atom_pair": "O:O",
+      "residue_pair": "nt:nt"
+    },
+    {
+      "index": 43,
+      "atom1_serNum": 799,
+      "atom2_serNum": 837,
+      "donAcc_type": "standard",
+      "distance": 3.702,
+      "atom1_id": "OP1@R.A14",
+      "atom2_id": "N4@R.C15",
+      "atom_pair": "O:N",
+      "residue_pair": "nt:nt"
+    },
+    {
+      "index": 44,
+      "atom1_serNum": 850,
+      "atom2_serNum": 862,
+      "donAcc_type": "acceptable",
+      "distance": 3.412,
+      "atom1_id": "O2'@R.C16",
+      "atom2_id": "OP2@R.U17",
+      "atom_pair": "O:O",
+      "residue_pair": "nt:nt"
+    }
+  ],
+  "refCoords": {
+    "purine": [
+      "   12 ATOMS,    12 BONDS",
+      "    1 N      -2.2500   5.0000   0.2500",
+      "    2 N      -2.2500   0.5000   0.2500",
+      "    3 N      -2.2500   0.5000  -0.2500",
+      "    4 N      -2.2500   5.0000  -0.2500",
+      "    5 C       2.2500   5.0000   0.2500",
+      "    6 C       2.2500   0.5000   0.2500",
+      "    7 C       2.2500   0.5000  -0.2500",
+      "    8 C       2.2500   5.0000  -0.2500",
+      "    9 C      -2.2500   5.0000   0.2500",
+      "   10 C      -2.2500   0.5000   0.2500",
+      "   11 C      -2.2500   0.5000  -0.2500",
+      "   12 C      -2.2500   5.0000  -0.2500",
+      "    1     1     2",
+      "    2     2     3",
+      "    3     3     4",
+      "    4     4     1",
+      "    5     5     6",
+      "    6     6     7",
+      "    7     7     8",
+      "    8     5     8",
+      "    9     9     5",
+      "   10    10     6",
+      "   11    11     7",
+      "   12    12     8"
+    ],
+    "pyrimidine": [
+      "   12 ATOMS,    12 BONDS",
+      "    1 N      -2.2500   5.0000   0.2500",
+      "    2 N      -2.2500   2.0000   0.2500",
+      "    3 N      -2.2500   2.0000  -0.2500",
+      "    4 N      -2.2500   5.0000  -0.2500",
+      "    5 C       2.2500   5.0000   0.2500",
+      "    6 C       2.2500   2.0000   0.2500",
+      "    7 C       2.2500   2.0000  -0.2500",
+      "    8 C       2.2500   5.0000  -0.2500",
+      "    9 C      -2.2500   5.0000   0.2500",
+      "   10 C      -2.2500   2.0000   0.2500",
+      "   11 C      -2.2500   2.0000  -0.2500",
+      "   12 C      -2.2500   5.0000  -0.2500",
+      "    1     1     2",
+      "    2     2     3",
+      "    3     3     4",
+      "    4     4     1",
+      "    5     5     6",
+      "    6     6     7",
+      "    7     7     8",
+      "    8     5     8",
+      "    9     9     5",
+      "   10    10     6",
+      "   11    11     7",
+      "   12    12     8"
+    ],
+    "wc_pair": [
+      "   12 ATOMS,    12 BONDS",
+      "    1 N      -2.2500   5.0000   0.2500",
+      "    2 N      -2.2500  -5.0000   0.2500",
+      "    3 N      -2.2500  -5.0000  -0.2500",
+      "    4 N      -2.2500   5.0000  -0.2500",
+      "    5 C       2.2500   5.0000   0.2500",
+      "    6 C       2.2500  -5.0000   0.2500",
+      "    7 C       2.2500  -5.0000  -0.2500",
+      "    8 C       2.2500   5.0000  -0.2500",
+      "    9 C      -2.2500   5.0000   0.2500",
+      "   10 C      -2.2500  -5.0000   0.2500",
+      "   11 C      -2.2500  -5.0000  -0.2500",
+      "   12 C      -2.2500   5.0000  -0.2500",
+      "    1     1     2",
+      "    2     2     3",
+      "    3     3     4",
+      "    4     4     1",
+      "    5     5     6",
+      "    6     6     7",
+      "    7     7     8",
+      "    8     5     8",
+      "    9     9     5",
+      "   10    10     6",
+      "   11    11     7",
+      "   12    12     8"
+    ]
+  },
+  "metadata": {
+    "version": "DSSR v1.9.8-2019oct16 by xiangjun@x3dna.org",
+    "manual": "http://docs.x3dna.org/dssr-manual.pdf",
+    "url": "http://x3dna.org",
+    "url_alt": "http://home.x3dna.org",
+    "forum": "http://forum.x3dna.org",
+    "citation": "Lu et al. (2015). 'DSSR: an integrated software tool for dissecting the spatial structure of RNA.' Nucleic Acids Res., 43(21):e142 [doi:10.1093/nar/gkv716].",
+    "command": "x3dna-dssr -i=../../pdbfiles/1a9n.pdb --json -o=1a9n-raw.json",
+    "input_file": "../../pdbfiles/1a9n.pdb",
+    "str_id": "1a9n",
+    "num_naChains": 2,
+    "naChains": "Q=24,R=24",
+    "num_atoms": 5188,
+    "num_waters": 0,
+    "num_notes": 52,
+    "notes": [
+      {
+        "Aminors": "A-minor interactions (including types I and II)"
+      },
+      {
+        "Cstem_index": "stem index of the 'Canonical' helix in k-turn"
+      },
+      {
+        "Cstem_pair": "Cstem bp delineating the k-turn internal loop"
+      },
+      {
+        "Dp": "perpendicular distance of the 3' P atom to the glycosidic bond"
+      },
+      {
+        "GA_pair": "sheared G-A pair in k-turn"
+      },
+      {
+        "HtypePknot": "H-type pseudoknot"
+      },
+      {
+        "Kturn": "kink-turn (k-turn)"
+      },
+      {
+        "LW": "Leontis-Westhof"
+      },
+      {
+        "NCstem_index": "stem index of the 'Non-Canonical' helix in k-turn"
+      },
+      {
+        "NCstem_pair": "NCstem bp delineating the k-turn internal loop"
+      },
+      {
+        "Uturn": "U-turn of the UNR- or GNRA-type"
+      },
+      {
+        "aa": "amino acid"
+      },
+      {
+        "atom_pair": "symbols of the two atoms involved in an H-bond"
+      },
+      {
+        "auxfiles": "auxiliary files"
+      },
+      {
+        "baseSugar_conf": "conformation of base related to sugar (syn or anti)"
+      },
+      {
+        "bb_type": "backbone conformation, BI or BII"
+      },
+      {
+        "bending_angle": "angle between two helical axes"
+      },
+      {
+        "bp": "base pair"
+      },
+      {
+        "bseq": "base sequence in one-letter code"
+      },
+      {
+        "bulge": "bulge loop"
+      },
+      {
+        "coaxStacks": "coaxial stacking of stems within a helix"
+      },
+      {
+        "dbn": "dot bracket notation"
+      },
+      {
+        "desc": "description"
+      },
+      {
+        "donAcc_type": "donor/acceptor type of the atom pair in an H-bond"
+      },
+      {
+        "epsilon_zeta": "difference between epsilon and zeta torsion angles"
+      },
+      {
+        "hairpin": "hairpin loop"
+      },
+      {
+        "hbond": "hydrogen bond (H-bond)"
+      },
+      {
+        "helix": "defined by base-stacking interactions, regardless of bp type and backbone connectivity"
+      },
+      {
+        "id": "identifier"
+      },
+      {
+        "iloop": "internal loop"
+      },
+      {
+        "index": "serial number"
+      },
+      {
+        "isoCanonPairs": "isolated canonical pairs"
+      },
+      {
+        "junction": "(multi-branched) junction loop"
+      },
+      {
+        "kissingLoop": "kissing loop"
+      },
+      {
+        "multiplet": "3+ bases in a coplanar geometry"
+      },
+      {
+        "na": "nucleic acid"
+      },
+      {
+        "nonPair": "two nts not forming a pair, but with H-bonding/stacking interactions"
+      },
+      {
+        "nonStack": "nucleotide not involved in stacking interactions"
+      },
+      {
+        "nt": "nucleotide"
+      },
+      {
+        "num": "number"
+      },
+      {
+        "oArea": "overlap areas between two bases, including exocyclic atoms"
+      },
+      {
+        "oArea_ring": "overlap areas between two bases, including only ring atoms"
+      },
+      {
+        "phosContacts": "H-bonding and atom-capping interactions involving a phosphate"
+      },
+      {
+        "residue_pair": "types of the two residues involved in an H-bond"
+      },
+      {
+        "rmsd": "root-mean-squares deviation"
+      },
+      {
+        "serNum": "serial number"
+      },
+      {
+        "ssSegments": "single-stranded segments not involved in loops"
+      },
+      {
+        "ssZp": "Z-coordinate of the 3' phosphorus atom with reference to the 5' base plane"
+      },
+      {
+        "sstr": "secondary structure in dbn"
+      },
+      {
+        "stem": "helix consisting of only canonical pairs, with a continuous backbone"
+      },
+      {
+        "str_id": "structure identifier, derived from inpfile with extension removed"
+      },
+      {
+        "vert_dist": "vertical distance from an atom to a base plane"
+      }
+    ],
+    "start_at": "Thu Oct 17 00:02:43 2019",
+    "finish_at": "Thu Oct 17 00:02:43 2019",
+    "time_used": "00:00:00:00"
+  }
+}
