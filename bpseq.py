@@ -19,8 +19,35 @@ class DotBracket:
 
     @staticmethod
     def from_string(sequence, structure):
-        # TODO: implement this
+        signs = {'(' : ')',  '[' : ']', '{' : '}', '<' : '>'}
         pairs = []
+        half = round(len(structure)/2)
+        lastIndex = 0
+        tempStructure = structure
+        dots = []
+
+        for index in range(len(structure)-1, 0, -1):
+            if tempStructure[index] == '.':
+                dots.append(index)
+
+        for dot in dots:
+            for index in range(1, len(structure)):
+                if dot - index < 0:
+                    break
+                if structure[dot - index] == '.':
+                    break
+                else:
+                    startIndex = dot - index
+                    if tempStructure[startIndex] in signs:
+                        for endIndex in range(startIndex, len(structure)):
+                            if tempStructure[endIndex] == signs[tempStructure[startIndex]]:
+                                pairs.append([startIndex+1, endIndex+1])
+                                pairs.append([endIndex+1, startIndex+1])
+                                tempStructure = tempStructure[:endIndex] + '-' + tempStructure[endIndex+1:]
+                                tempStructure = tempStructure[:startIndex] + '-' + tempStructure[startIndex+1:]
+                                break
+
+        pairs.sort()
         return DotBracket(sequence, structure, pairs)
 
     def __init__(self, sequence, structure, pairs):
@@ -36,8 +63,18 @@ class DotBracket:
             BPSEQ:      An instance of BPSEQ object created from this object.
         :return:
         '''
-        # TODO: implement this
         entries = []
+        for pair in self.pairs:
+            entry = (int(pair[0]), self.sequence[pair[0]-1], int(pair[1]))
+            entries.append(entry)
+
+        signs = ['(', ')', '[', ']', '{', '}', '<', '>']
+        for index in range(len(self.structure)):
+            if self.structure[index] not in signs:
+                entry = (index+1, self.sequence[index], 0)
+                entries.append(entry)
+
+        entries.sort()
         return BPSEQ(entries)
 
 
@@ -94,6 +131,11 @@ def generate_test_function(json_path):
 
         bpseq_path = json_path.replace('.json', '.bpseq')
         bpseq2 = BPSEQ.from_file(bpseq_path)
+        if bpseq1 != bpseq2:
+            print(bpseq2)
+            print(" ")
+            print(bpseq1)
+            print("----------------------------------------------------------")
         assert bpseq1 == bpseq2
 
     test_function.__name__ = 'test_{}'.format(os.path.basename(json_path))

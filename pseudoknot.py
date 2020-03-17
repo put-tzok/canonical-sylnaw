@@ -86,6 +86,7 @@ class Stem:
         Returns:
             bool:           Status of the pseudoknot relation.
         '''
+        print("Dfsdfdsf")
         # TODO: implement this (change the False below to a meaningful expression)
         return False
 
@@ -229,8 +230,22 @@ class BPSEQ:
         Returns:
             list:       A list of Hairpin objects.
         '''
-        # TODO: implement this
         hairpins = []
+        index = 0
+        while index <= len(self.entries):
+            if self.entries[index][2] == 0:
+                index = index + 1
+            else:
+                sequence = ""
+                begin = index + 1
+                for i in range(index, len(self.entries)):
+                    index = self.entries[index][0]
+                    if(self.entries[index][2] == 0):
+                        end = self.entries[index][0] - 1
+                        break
+                    else:
+                        sequence = sequence + self.entries[index][1]
+                hairpins.append(Hairpin(begin, end, sequence))
         return hairpins
 
     def pseudoknots(self) -> List[Pseudoknot]:
@@ -266,6 +281,7 @@ def generate_test_function(bpseq_path):
 
     if hairpins:
         def test_function_hairpins():
+            #print(hairpins)
             assert bpseq.hairpins() == hairpins
 
         test_function_hairpins.__name__ = 'test_hairpins_{}'.format(os.path.basename(bpseq_path))
