@@ -86,9 +86,8 @@ class Stem:
         Returns:
             bool:           Status of the pseudoknot relation.
         '''
-        print("Dfsdfdsf")
         # TODO: implement this (change the False below to a meaningful expression)
-        return False
+        return (self.strand1.end < other.strand1.begin) * (other.strand1.end < self.strand2.begin) * (self.strand2.end < other.strand2.begin)
 
 
 @dataclass
@@ -219,8 +218,47 @@ class BPSEQ:
         Returns:
             list:       A list of Stem objects.
         '''
-        # TODO: implement this
+        sequence = ""
+        strands = []
+
+        for i in range(0, len(self.entries)):
+            current_nuc = self.entries[i]
+            #print(current_nuc)
+            #Building strand
+            if current_nuc[2] is not 0 and sequence is "":
+                begin = current_nuc[0]
+                sequence = sequence + current_nuc[1]
+            
+            elif current_nuc[2] is not 0 and sequence is not "":
+                sequence = sequence + current_nuc[1]
+
+            # Cutting strand
+            end = current_nuc[0]
+            if i < len(self.entries) - 1:
+                if (self.entries[i+1][2] is not (current_nuc[2] - 1) or self.entries[i+1][2] is 0):
+                    if len(sequence) > 1:
+                        strands.append(Strand(begin, end, sequence))
+                    sequence = ""
+                            
+            elif current_nuc[2] is not 0 and len(sequence) > 1:
+                strands.append(Strand(begin, end, sequence))
+
         stems = []
+        for strand in strands:
+            compliment_begin = None
+            for entry in self.entries:
+                if entry[0] is strand.begin and entry[0] < entry[2]:
+                    compliment_begin = entry[2]
+            for compliment_strand in strands:
+                if compliment_begin == compliment_strand.end:
+                    temp_end = compliment_strand.end
+                    compliment_strand.end = compliment_strand.begin
+                    compliment_strand.begin = temp_end
+                    compliment_strand.sequence = compliment_strand.sequence[::-1]
+                    stems.append(Stem(strand, compliment_strand))
+
+        #for stem in stems:
+        #    print(stem)
         return stems
 
     def hairpins(self) -> List[Hairpin]:
@@ -231,21 +269,29 @@ class BPSEQ:
             list:       A list of Hairpin objects.
         '''
         hairpins = []
-        index = 0
-        while index <= len(self.entries):
-            if self.entries[index][2] == 0:
-                index = index + 1
-            else:
+        hairpin_candidates = []
+        
+        begin = None
+        for i in range(1, len(self.entries)):
+            current = self.entries[i]
+            if current[2] == 0 and begin == None:
+                previous = self.entries[i - 1]
+                begin = previous
+            elif current[2] != 0 and begin != None:
+                end = self.entries[i]
+                if begin != end:
+                    hairpin_candidates.append([begin, end])
+                begin = None
+        
+        for candidate in hairpin_candidates:
+            begin = self.entries[candidate[0][0]-1]
+            end = self.entries[candidate[1][0]-1]
+            if begin[0] == end[2]:
                 sequence = ""
-                begin = index + 1
-                for i in range(index, len(self.entries)):
-                    index = self.entries[index][0]
-                    if(self.entries[index][2] == 0):
-                        end = self.entries[index][0] - 1
-                        break
-                    else:
-                        sequence = sequence + self.entries[index][1]
-                hairpins.append(Hairpin(begin, end, sequence))
+                for i in range(begin[0]-1, end[0]):
+                    sequence = sequence + self.entries[i][1]
+                hairpins.append(Hairpin(begin[0], end[0], sequence))
+
         return hairpins
 
     def pseudoknots(self) -> List[Pseudoknot]:
@@ -270,18 +316,22 @@ def generate_test_function(bpseq_path):
         hairpins = json.load(infile, cls=Decoder)
     with open(bpseq_path.replace('.bpseq', '-pseudoknots.json')) as infile:
         pseudoknots = json.load(infile, cls=Decoder)
-
     test_functions = []
     if stems:
         def test_function_stems():
+            for entry in bpseq.entries:
+                print(entry)
+            print("\nbpseq.stems():")
+            print(bpseq.stems()[0])
+            print("stems:")
+            print(stems[0])
             assert bpseq.stems() == stems
-
+            
         test_function_stems.__name__ = 'test_stems_{}'.format(os.path.basename(bpseq_path))
         test_functions.append(test_function_stems)
 
     if hairpins:
         def test_function_hairpins():
-            #print(hairpins)
             assert bpseq.hairpins() == hairpins
 
         test_function_hairpins.__name__ = 'test_hairpins_{}'.format(os.path.basename(bpseq_path))
@@ -289,6 +339,8 @@ def generate_test_function(bpseq_path):
 
     if pseudoknots:
         def test_function_pseudoknots():
+            #print(bpseq.pseudoknots())
+            #print(pseudoknots)
             assert bpseq.pseudoknots() == pseudoknots
 
         test_function_pseudoknots.__name__ = 'test_pseudoknots_{}'.format(os.path.basename(bpseq_path))
